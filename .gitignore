@@ -1,0 +1,11 @@
+images/
+git-it-on.tex
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+*.nav
+*.snm
+*.toc
+*.out
