@@ -4,11 +4,12 @@ author: Katrin Leinweber
 date: 2015-Apr-12
 ---
 
-![](images/git-logo.png)
 
 ## What is Git?
 
 > [A] free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
+
+![](images/git-logo.png)
 
 ## What is Git?
 
@@ -16,13 +17,21 @@ date: 2015-Apr-12
 
 **You are already using products built with the help of Git**
 
-![](images/company-logos.png)  
+> - originally built for Linux kernel development
+  - thousands of people, millions of lines of code
+> - used now by all major software products and companies (Android, Facebook, Google, Microsoft, Netflix, Twitter, etc.); both internally & publicly
+
+![](images/company-logos.png)
 
 ## What is Git?
 
 > [A] free and open source distributed version control system designed to **handle everything** from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
-**File type agnostic, but line- or paragraph-based text works best**
+**File type agnostic**
+
+> - like good backup system: any file type can be checked in
+> - line- or paragraph-based text works best
+>   - software source code 
 
 ## What is Git?
 
@@ -40,6 +49,9 @@ date: 2015-Apr-12
 
 **asynchronous team-work**
 
+> - entire database of project history is stored in project folder
+>   - sync folder with Git server upload changes (like Adobe's comment syncing system in Journal of Phycology
+
 ## What is it good against? File creep!
 
 ![](images/versions-win-explorer.png)
@@ -52,19 +64,7 @@ date: 2015-Apr-12
 
 ![](images/versions-git-split.png)
 
-## What is it good for?
 
-### Culturally
-
-> - documenting your work (for colleagues, students, reviewers, your future self, etc.)
-> - collaborative work on same project
-
-#### Technically
-
-> - line-based text files: scripts (problems only if same lines are edited)
-> - version control (highlighting & cryptographic proof of changes)
-> - (automatic) publishing (pre-prints, raw data, etc.)
-> - gratis backup & cheap syncing on top
 
 
 ## Basic vocabulary [ ] Order differently?
@@ -109,6 +109,20 @@ date: 2015-Apr-12
 ## What to use Git for?
 
 > - small, new projects (report, diagram in R
+
+## What is it good for?
+
+### Culturally
+
+> - documenting your work (for colleagues, students, reviewers, your future self, etc.) 
+> - collaborative work on same project / set of files
+
+### Technically
+
+> - line-based text files: scripts (problems only if same lines are edited)
+> - version control (highlighting & cryptographic proof of changes)
+> - (automatic) publishing (pre-prints, raw data, etc.)
+> - gratis backup & cheap syncing on top
 
 ## The End
 
