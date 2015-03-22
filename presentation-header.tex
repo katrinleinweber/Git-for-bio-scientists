@@ -1,0 +1,40 @@
+%%% Custom example LaTeX header code %%%
+%
+% This is example LaTeX header code I commonly use to enhance
+% default behavior, fix some quirks or import packages I use.
+% These can be savely removed and mainly have the purpose of
+% demonstrating custom changes.
+
+% Listings and algorithms
+\usepackage{listings,algorithm,algorithmic}
+\lstset{
+	basicstyle=\ttfamily\footnotesize,	% monospaced font
+	breaklines=true,										% prevent overflow
+  keywordstyle=\color{blue}\ttfamily,
+  stringstyle=\color{red}\ttfamily,
+  commentstyle=\color{green}\ttfamily,
+  morecomment=[l][\color{magenta}]{\#A},
+  frame=lrtb,
+  framerule=1px,
+  xleftmargin=1em,
+}
+% Don't break quotes in listings
+\usepackage{textcomp}
+\lstset{upquote=true}
+
+% Only show footnotes after the item is actually displayed
+\renewcommand\footnoterule{%
+  \vspace*{1.5ex}\rule{.4\columnwidth}{0.4pt}\vspace*{.5ex}}
+
+ % suppress "Figure:" label; learned from https://tex.stackexchange.com/questions/82456/
+\setbeamertemplate{caption}{\raggedright\insertcaption\par}
+
+% Support tifs by converting them.
+% http://tex.stackexchange.com/a/89993
+% \usepackage{epstopdf}
+% \DeclareGraphicsRule{.tiff}{png}{.png}{%
+%   \noexpand\epstopdfcall{convert #1 \noexpand\OutputFile}%
+% }
+\DeclareGraphicsRule{.tif}{png}{.png}{%
+  \noexpand\epstopdfcall{convert #1 \noexpand\OutputFile}%
+}
