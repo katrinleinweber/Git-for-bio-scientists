@@ -21,17 +21,16 @@ date: 2015-Apr-12
   - thousands of people, millions of lines of code
 > - used now by all major software products and companies (Android, Facebook, Google, Microsoft, Netflix, Twitter, etc.); both internally & publicly
 
-![](images/company-logos.png)
-
 ## What is Git?
 
 > [A] free and open source distributed version control system designed to **handle everything** from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
-**File type agnostic**
+**Works with all filetypes**
 
-> - like good backup system: any file type can be checked in
-> - line- or paragraph-based text works best
->   - software source code 
+> - like good backup system
+> - very useful for line- or paragraph-based text (software source code)
+> - medium useful for figures
+> - not useful for big non-text, or auto-generated files
 
 ## What is Git?
 
@@ -69,13 +68,6 @@ date: 2015-Apr-12
 - **repository** = Git's database of file versions in a watched folder
 
 ![](images/repo-folder.png)
-
-## Basic vocabulary [ ] leave out
-
-- **staging area** = selection of saved file changes disk already, but not yet committed to repository
-- displays changes just as in commit history
-
-![](images/uncommitted-changes.png)
 
 ## Basic vocabulary
 
