@@ -52,34 +52,32 @@ date: 2015-Apr-12
 > - entire database of project history is stored in project folder
 >   - sync folder with Git server upload changes (like Adobe's comment syncing system in Journal of Phycology
 
-## What is it good against? File creep!
+## What is it good against? Too many files!
 
 ![](images/versions-win-explorer.png)
 
-## What is it good against? Version creep!
+## What is it good against? Unnamed versions!
 
 ![](images/versions-crashplan.png)
 
-## What is it good for?
+## What is it good for? Documentation!
 
 ![](images/versions-git-split.png)
 
-
-
-
-## Basic vocabulary [ ] Order differently?
+## Basic vocabulary
 
 - **repository** = Git's database of file versions in a watched folder
 
 ![](images/repo-folder.png)
 
-## Basic vocabulary
+## Basic vocabulary [ ] leave out
 
 - **staging area** = selection of saved file changes disk already, but not yet committed to repository
+- displays changes just as in commit history
 
 ![](images/uncommitted-changes.png)
 
-## Basic vocabulary [ ] Order differently?
+## Basic vocabulary
 
 - **commit** = set of logically connected changes within same (or across different) file(s) that are checked into the repository
 
