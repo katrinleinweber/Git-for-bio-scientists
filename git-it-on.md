@@ -1,7 +1,7 @@
 ---
 title: Digital Lab Journalling with Git
 author: Katrin Leinweber
-date: 2015-Apr-12
+date: 2015-Apr-13
 ---
 
 
@@ -113,6 +113,12 @@ date: 2015-Apr-12
 > - version control (highlighting & cryptographic proof of changes)
 > - (automatic) publishing (pre-prints, raw data, etc.)
 > - gratis backup & cheap syncing on top
+
+# Demo: Collaboration
+
+![](https://upmic.files.wordpress.com/2015/03/sharing-credit.png?w=650&h=285)
+
+- [ ] get [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) account
 
 ## The End
 
