@@ -1,6 +1,6 @@
 clean:
 		pandoc \
-			--slide-level 2 \
+			--slide-level 3 \
 			--from markdown+yaml_metadata_block \
 			--to beamer \
 			--include-in-header presentation-header.tex \
