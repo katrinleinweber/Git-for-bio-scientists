@@ -26,10 +26,14 @@ Changes, that are chronologically ordered by inheritance.
 
 ### A lab journal therefore needs:
 
-> 1. chronological, verified order => achieved on paper with page numbers
-> 1. highlighting of changes => colors
+> 1. chronological, verified order => achieved on paper with page numbers?
+> 1. highlighting of changes => colors?
 
-> - but can't be shared
+> - but can't easily be shared
+>   - neither for reading only
+>   - nor written together
+> - sometimes not even deciphered
+> - searching is PITA
 
 ### What is Git?
 
@@ -47,6 +51,7 @@ Changes, that are chronologically ordered by inheritance.
 > - display change history
 > - reverting old changes
 > - per line if necessary => better than normal backup systems
+> - DEMO: `F0-legends > moved incubation times to legends`
 
 ### What is Git?
 
@@ -58,6 +63,8 @@ Changes, that are chronologically ordered by inheritance.
 > - very useful for line- or paragraph-based files
 > - medium useful for figures
 > - not useful for big, non-text, or auto-generated files
+> - DEMO: `F0-legends > initial commit` & `150224-30m-summary > final version handed in`
+
 
 ### What is Git?
 
