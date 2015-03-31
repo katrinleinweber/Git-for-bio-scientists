@@ -1,5 +1,6 @@
 ---
-title: Digital Lab Journalling with Git
+title: Git It On!
+subtitle: Di**git**al Lab Journalling with Git
 author: Katrin Leinweber
 date: 2015-Apr-13
 ---
