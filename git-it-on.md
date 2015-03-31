@@ -30,7 +30,7 @@ date: 2015-Apr-13
 > - like good backup system
 > - very useful for line- or paragraph-based files
 > - medium useful for figures
-> - not useful for big non-text, or auto-generated files
+> - not useful for big, non-text, or auto-generated files
 
 ## What is Git?
 
@@ -98,12 +98,19 @@ date: 2015-Apr-13
 
 ![](images/branching-illustration.png)
 
+## Advanced vocabulary
+
 > - **switching branches** = letting Git serve only the files in that branch to you
-> - **merging** = integration of changes from one branch into another 
+> - **merging** = integration of changes from one branch into another
+
+## Remember Ansgar's "Tree of Life"-talk? You already know branching and merging!
 
 ![](images/Horizontal-gene-transfer.jpg)
 
-> *Source: [Horizontal-gene-transfer](https://commons.wikimedia.org/wiki/File:Horizontal-gene-transfer.jpg#/media/File:Horizontal-gene-transfer.jpg) by Dr. Smets and perhaps others - Barth F. Smets, Ph.D., with permission. Licensed under Attribution via Wikimedia Commons*
+---
+
+> *[Horizontal gene transfer](https://commons.wikimedia.org/wiki/File:Horizontal-gene-transfer.jpg#/media/File:Horizontal-gene-transfer.jpg) by Dr. Smets and perhaps others - Barth F. Smets, Ph.D., with permission. Licensed under Attribution via Wikimedia Commons*
+
 
 ## How to start using it?
 
@@ -112,13 +119,15 @@ date: 2015-Apr-13
 > 1. create new folder initialise it as a repository
 > 1. start adding files & editing them
 > 1. commit logically connected edits and changes 
-> 1. *Optional (collaboration, backup, publishing, etc): create account with a Git-hosting service like [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/)*
+> 1. *Optional* (for collaboration, off-site backup, publishing, etc): create account with a Git-hosting service like [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/)*
+
+- [ ] or at [git.uni.kn](https://git.uni-konstanz.de/users/sign_in)
 
 # Demo: Collaboration
 
 ![](https://upmic.files.wordpress.com/2015/03/sharing-credit.png?w=650&h=285)
 
-- [ ] get [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) account
+
 
 ## The End
 
