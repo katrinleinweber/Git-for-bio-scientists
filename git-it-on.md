@@ -4,33 +4,33 @@ author: Katrin Leinweber
 date: 2015-Apr-13
 ---
 
+## Remember Ansgar's "Tree of Life"-talk?
+
+![](images/doolittle-tree.jpg)
+
+> Tim Bousquet (The Coast, 2009-Oct-8) [Doolittle, Darwin and the Deeply Dumb](http://www.thecoast.ca/halifax/doolittle-darwin-and-the-deeply-dumb/Content?oid=1320808)
+
+## Remember Ansgar's "Tree of Life"-talk?
+
+![](images/Horizontal-gene-transfer-ori.jpg)
+
+> Smets & Barkay (2005) [Horizontal gene transfer: perspectives at a crossroads of scientific disciplines](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
+
+## What is evolution?
+
+> - Changes, that are chronologically ordered by inheritance.
+> - Projects live & evolve, too!
+> 
+>   1. wild type organism => transformation => knock-out mutant
+>   1. experiments => results & observations
+>   1. discussions & writing => plans for next experiment
+
 
 ## What is Git?
 
 > [A] free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
 ![](images/git-logo.png)
-
-## What is Git?
-
-> [A] free and open source distributed version control system designed to handle everything **from small to very large projects** with speed and efficiency. ([git-scm.com](http://git-scm.com/))
-
-**Things built with Git**
-
-> - 1st: Linux kernel
->   - thousands of people, millions of lines of code
-> - now: many major software products and companies (Android, Facebook, Google, Microsoft, Netflix, Twitter, etc.)
-
-## What is Git?
-
-> [A] free and open source distributed version control system designed to **handle everything** from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
-
-**Works with all filetypes**
-
-> - like good backup system
-> - very useful for line- or paragraph-based files
-> - medium useful for figures
-> - not useful for big, non-text, or auto-generated files
 
 ## What is Git?
 
@@ -42,6 +42,17 @@ date: 2015-Apr-13
 > - display change history
 > - reverting old changes
 > - per line if necessary => better than normal backup systems
+
+## What is Git?
+
+> [A] free and open source distributed version control system designed to **handle everything** from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
+
+**Works with all filetypes**
+
+> - like good backup system
+> - very useful for line- or paragraph-based files
+> - medium useful for figures
+> - not useful for big, non-text, or auto-generated files
 
 ## What is Git?
 
@@ -102,14 +113,6 @@ date: 2015-Apr-13
 
 > - **switching branches** = letting Git serve only the files in that branch to you
 > - **merging** = integration of changes from one branch into another
-
-## Remember Ansgar's "Tree of Life"-talk? You already know branching and merging!
-
-![](images/Horizontal-gene-transfer.jpg)
-
----
-
-> *[Horizontal gene transfer](https://commons.wikimedia.org/wiki/File:Horizontal-gene-transfer.jpg#/media/File:Horizontal-gene-transfer.jpg) by Dr. Smets and perhaps others - Barth F. Smets, Ph.D., with permission. Licensed under Attribution via Wikimedia Commons*
 
 
 ## How to start using it?
