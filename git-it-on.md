@@ -15,7 +15,11 @@ date: 2015-Apr-13
 
 ### What is evolution?
 
-Changes, that are chronologically ordered by inheritance.
+![](images/change-we-can-believe-in.jpg)
+
+### What is evolution?
+
+#### Changes, chronologically ordered by inheritance.
 
 ![](images/Horizontal-gene-transfer-no-domains.jpg)
 
@@ -30,10 +34,9 @@ Changes, that are chronologically ordered by inheritance.
 > 1. chronological, verified order => achieved on paper with page numbers?
 > 1. highlighting of changes => colors?
 
-> - but can't easily be shared
->   - neither for reading only
+> - can't be shared easily (not even read-only)
 >   - nor written together
-> - sometimes not even deciphered
+>   - sometimes not even deciphered
 > - searching is PITA
 
 ### What is Git?
@@ -46,7 +49,7 @@ Changes, that are chronologically ordered by inheritance.
 
 > [A] free and open source distributed **version control** system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
-**control over document versions:**
+#### control over document versions
 
 > - record & comment changes
 > - display change history
@@ -58,7 +61,7 @@ Changes, that are chronologically ordered by inheritance.
 
 > [A] free and open source distributed version control system designed to **handle everything** from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
-**Works with all filetypes**
+#### all types of files
 
 > - like good backup system
 > - very useful for line- or paragraph-based files
@@ -77,12 +80,13 @@ Changes, that are chronologically ordered by inheritance.
 > - sync changes via Git server (like comments  in JPY-PDF)
 > - public & private servers available
 > - collisions only if same lines are edited (Dropbox?)
+> - DEMO: `Paper-Now-Achmi...`
 
 ### Summary of Git's properties
 
 #### Technically
 
-> - works with any type of file, esp. basic text
+> - works very well for text, semi-well for images
 > - gives you control over, and knowledge plus proof of, file changes
 > - gratis backup & cheap syncing
 
@@ -106,26 +110,27 @@ Changes, that are chronologically ordered by inheritance.
 
 ### Basic vocabulary
 
-- **repository** = Git's database of file versions in a watched folder
+- **repository:** Git's database of file versions in a watched folder
 
 ![](images/repo-folder.png)
 
 ### Basic vocabulary
 
-- **commit** = set of logically connected changes within same (or across different) file(s) that are checked into the repository
+- **commit:** set of logically connected changes within same (or across different) file(s) that are checked into the repository
 
 ![](images/logical-commit-across-files.png)
 
 ### Advanced vocabulary
 
-> - **branches** = different contexts in same repository (cheaply created for a side experiment & then either merged or deleted)
+> - **branches:** different contexts in same repository (cheaply created for a side experiment & then either merged or deleted)
+> - DEMO: `Git it on > experiments`
 
 ![](images/branching-illustration.png)
 
 ### Advanced vocabulary
 
-> - **switching branches** = letting Git serve only the files in that branch to you
-> - **merging** = integration of changes from one branch into another
+> - **switching branches:** letting Git serve only the files in that branch to you
+> - **merging:** integration of changes from one branch into another
 
 
 ### How to start using it?
@@ -154,7 +159,7 @@ See also my [Introduction to Digital Lab Journalling](http://prezi.com/p_se6nkre
 
 - Trees of Life
   1. Tim Bousquet (The Coast, 2009-Oct-8) [Doolittle, Darwin and the Deeply Dumb](http://www.thecoast.ca/halifax/doolittle-darwin-and-the-deeply-dumb/Content?oid=1320808)
-  2. Smets & Barkay (2005) [Horizontal gene transfer: perspectives at a crossroads of scientific disciplines](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
+  1. Smets & Barkay (2005) [Horizontal gene transfer: perspectives at a crossroads of scientific disciplines](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
 
 ### To do
 
