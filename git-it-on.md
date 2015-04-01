@@ -51,10 +51,9 @@ date: 2015-Apr-13
 #### all types of files
 
 > - like good backup system
-> - very useful for line- or paragraph-based files
-> - medium useful for figures
-> - not useful for big, non-text, or auto-generated files
-> - DEMO: `F0-legends > initial commit` & `150224-30m-summary > final version handed in`
+> - very useful for line- or paragraph-based text files
+> - medium useful for images (JPG, PNG, etc.)
+> - DEMO: `F0-legends > initial` & `150224-30m-summary > final`
 
 ### What is Git?
 
@@ -62,11 +61,10 @@ date: 2015-Apr-13
 
 #### control over document versions
 
-> - record & comment changes
-> - display change history
-> - reverting old changes
-> - per line if necessary => better than normal backup systems
-> - DEMO: `F0-legends > moved incubation times to legends`
+> - record, comment & highlight changes
+> - revert old changes & restore old file versions
+> - per line if necessary => better than backup or wiki
+> - DEMO: `F0-legends > moved incubation times...` 
 
 ### What is Git?
 
@@ -75,8 +73,7 @@ date: 2015-Apr-13
 **asynchronous team-work**
 
 > - entire database of project history is stored in each project folder
-> - sync changes via Git server (like comments  in JPY-PDF)
-> - public & private servers available
+> - sync changes via Git server (like comments in JPY-PDF)
 > - collisions only if same lines are edited (Dropbox?)
 > - DEMO: `Paper-Now-Achmi...`
 
@@ -91,8 +88,12 @@ date: 2015-Apr-13
 #### Culturally
 
 > - enables precise documentation (for colleagues, students, reviewers, your future self, etc.)
-> - teaches basics of best software tools
 > - ultimately eases collaborative work on same set of files
+> - teaches basics of best software tools
+
+---
+
+- [ ] this section breaks flow
 
 ### Good against: Too many files.
 
