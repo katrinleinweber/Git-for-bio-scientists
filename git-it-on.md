@@ -19,7 +19,7 @@ date: 2015-Apr-13
 
 ### What is evolution?
 
-#### Changes, chronologically ordered by inheritance.
+#### Genetic changes; chronologically ordered by inheritance. Forward: ever; backwards: never.
 
 ![](images/Horizontal-gene-transfer-no-domains.jpg)
 
@@ -32,30 +32,17 @@ date: 2015-Apr-13
 ### A lab journal therefore needs:
 
 > 1. chronological, verified order => achieved on paper with page numbers?
-> 1. highlighting of changes => colors?
+> 1. highlighting of changes => colors, dates?
 
 > - can't be shared easily (not even read-only)
->   - nor written together
->   - sometimes not even deciphered
-> - searching is PITA
+> - nor written collaboratively
+> - searching through handwriting is for historians
 
 ### What is Git?
 
 > [A] free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
 ![](images/git-logo.png)
-
-### What is Git?
-
-> [A] free and open source distributed **version control** system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
-
-#### control over document versions
-
-> - record & comment changes
-> - display change history
-> - reverting old changes
-> - per line if necessary => better than normal backup systems
-> - DEMO: `F0-legends > moved incubation times to legends`
 
 ### What is Git?
 
@@ -69,6 +56,17 @@ date: 2015-Apr-13
 > - not useful for big, non-text, or auto-generated files
 > - DEMO: `F0-legends > initial commit` & `150224-30m-summary > final version handed in`
 
+### What is Git?
+
+> [A] free and open source distributed **version control** system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
+
+#### control over document versions
+
+> - record & comment changes
+> - display change history
+> - reverting old changes
+> - per line if necessary => better than normal backup systems
+> - DEMO: `F0-legends > moved incubation times to legends`
 
 ### What is Git?
 
