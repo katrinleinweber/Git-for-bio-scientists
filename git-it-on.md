@@ -1,118 +1,145 @@
 ---
-title: Digital Lab Journalling with Git
+title: Git It On!
+subtitle: Di**git**al Lab Journalling with Git
 author: Katrin Leinweber
 date: 2015-Apr-13
 ---
 
+### Remember Ansgar's "Tree of Life"-talk?
 
-## What is Git?
+![](images/doolittle-tree.jpg)
+
+### Remember Ansgar's "Tree of Life"-talk?
+
+![](images/Horizontal-gene-transfer-ori.jpg)
+
+### What is evolution?
+
+![](images/change-we-can-believe-in.jpg)
+
+### What is evolution?
+
+#### Genetic changes; chronologically ordered by inheritance. Forward: ever; backwards: never.
+
+![](images/Horizontal-gene-transfer-no-domains.jpg)
+
+### Projects live & evolve, too!
+
+> 1. wild type organism => transformation => knock-out mutant
+> 1. experiments => results & observations
+> 1. discussions & writing => plans for next experiment
+
+### A lab journal therefore needs:
+
+> 1. chronological, verified order => achieved on paper with page numbers?
+> 1. highlighting of changes => colors, dates?
+
+> - can't be shared easily (not even read-only)
+> - nor written collaboratively
+> - searching through handwriting is for historians
+
+### What is Git?
 
 > [A] free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
 ![](images/git-logo.png)
 
-## What is Git?
-
-> [A] free and open source distributed version control system designed to handle everything **from small to very large projects** with speed and efficiency. ([git-scm.com](http://git-scm.com/))
-
-**Things built with Git**
-
-> - 1st: Linux kernel
->   - thousands of people, millions of lines of code
-> - now: many major software products and companies (Android, Facebook, Google, Microsoft, Netflix, Twitter, etc.)
-
-## What is Git?
+### What is Git?
 
 > [A] free and open source distributed version control system designed to **handle everything** from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
-**Works with all filetypes**
+#### all types of files
 
 > - like good backup system
-> - very useful for line- or paragraph-based files
-> - medium useful for figures
-> - not useful for big, non-text, or auto-generated files
+> - very useful for line- or paragraph-based text files
+> - medium useful for images (JPG, PNG, etc.)
+> - DEMO: `F0-legends > initial` & `150224-30m-summary > final`
 
-## What is Git?
+### What is Git?
 
 > [A] free and open source distributed **version control** system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
-**control over document versions:**
+#### control over document versions
 
-> - record & comment changes
-> - display change history
-> - reverting old changes
-> - per line if necessary => better than normal backup systems
+> - record, comment & highlight changes
+> - revert old changes & restore old file versions
+> - per line if necessary => better than backup or wiki
+> - DEMO: `F0-legends > moved incubation times...` 
 
-## What is Git?
+### What is Git?
 
 > [A] free and open source **distributed** version control system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
 **asynchronous team-work**
 
 > - entire database of project history is stored in each project folder
-> - sync changes via Git server (like comments  in JPY-PDF)
-> - public & private servers available
+> - sync changes via Git server (like comments in JPY-PDF)
 > - collisions only if same lines are edited (Dropbox?)
+> - DEMO: `Paper-Now-Achmi...`
 
-## Summary of Git's properties
+### Summary of Git's properties
 
-### Technically
+#### Technically
 
-> - works with any type of file, esp. basic text
+> - works very well for text, semi-well for images
 > - gives you control over, and knowledge plus proof of, file changes
 > - gratis backup & cheap syncing
 
-### Culturally
+#### Culturally
 
 > - enables precise documentation (for colleagues, students, reviewers, your future self, etc.)
-> - teaches basics of best software tools
 > - ultimately eases collaborative work on same set of files
-
-## Good against: Too many files.
-
-![](images/versions-win-explorer.png)
-
-## Good against: Unnamed versions.
-
-![](images/versions-crashplan.png)
-
-## Good for: Documentation.
-
-![](images/versions-git-split.png)
-
-## Basic vocabulary
-
-- **repository** = Git's database of file versions in a watched folder
-
-![](images/repo-folder.png)
-
-## Basic vocabulary
-
-- **commit** = set of logically connected changes within same (or across different) file(s) that are checked into the repository
-
-![](images/logical-commit-across-files.png)
-
-## Advanced vocabulary
-
-> - **branches** = different contexts in same repository (cheaply created for a side experiment & then either merged or deleted)
-
-![](images/branching-illustration.png)
-
-## Advanced vocabulary
-
-> - **switching branches** = letting Git serve only the files in that branch to you
-> - **merging** = integration of changes from one branch into another
-
-## Remember Ansgar's "Tree of Life"-talk? You already know branching and merging!
-
-![](images/Horizontal-gene-transfer.jpg)
+> - teaches basics of best software tools
 
 ---
 
-> *[Horizontal gene transfer](https://commons.wikimedia.org/wiki/File:Horizontal-gene-transfer.jpg#/media/File:Horizontal-gene-transfer.jpg) by Dr. Smets and perhaps others - Barth F. Smets, Ph.D., with permission. Licensed under Attribution via Wikimedia Commons*
+- [ ] this section breaks flow
+
+### Good against: Too many files.
+
+![](images/versions-win-explorer.png)
+
+### Good against: Unnamed versions.
+
+![](images/versions-crashplan.png)
+
+### Good for: Documentation.
+
+![](images/versions-git-split.png)
+
+### Combined advantages
+
+> - Explorer/Finder displays only latest file versions
+> - Git client makes version history accessible
+> - adapts to your work-flow
+> - encourages & rewards improvement
+
+### Basic vocabulary
+
+- **repository:** Git's database of file versions in a watched folder
+
+![](images/repo-folder.png)
+
+### Basic vocabulary
+
+- **commit:** set of logically connected changes within same (or across different) file(s) that are checked into the repository
+
+![](images/logical-commit-across-files.png)
+
+### Advanced vocabulary
+
+> - **branches:** different contexts in same repository (cheaply created for a side experiment & then either merged or deleted)
+> - DEMO: `Git it on > experiments`
+
+![](images/branching-illustration.png)
+
+### Advanced vocabulary
+
+> - **switching branches:** letting Git serve only the files in that branch to you
+> - **merging:** integration of changes from one branch into another
 
 
-## How to start using it?
+### How to start using it?
 
 > 1. Wait for small, new project (report, diagram in R
 > 1. Download a Git client (for example from windows.github.com, or check [git-scm.com/downloads/guis](http://git-scm.com/download/gui/win)) & install
@@ -123,15 +150,13 @@ date: 2015-Apr-13
 
 - [ ] or at [git.uni.kn](https://git.uni-konstanz.de/users/sign_in)
 
-# Demo: Collaboration
-
-![](https://upmic.files.wordpress.com/2015/03/sharing-credit.png?w=650&h=285)
-
-
-
-## The End
+### The End
 
 ![](images/keep-calm-and-git-it-on.png)
 
 See also my [Introduction to Digital Lab Journalling](http://prezi.com/p_se6nkre49m/digital-lab-journalling-intro/).
 
+### Image Credits
+
+1. Tim Bousquet (The Coast, 2009-Oct-8) [Doolittle, Darwin and the Deeply Dumb](http://www.thecoast.ca/halifax/doolittle-darwin-and-the-deeply-dumb/Content?oid=1320808)
+1. Smets & Barkay (2005) [Horizontal gene transfer: perspectives at a crossroads of scientific disciplines](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
