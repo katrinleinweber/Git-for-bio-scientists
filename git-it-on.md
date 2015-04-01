@@ -151,11 +151,6 @@ date: 2015-Apr-13
 
 - [ ] or at [git.uni.kn](https://git.uni-konstanz.de/users/sign_in)
 
-### Demo: Collaboration
-
-![](images/sharing-credit.png)
-
-
 ### The End
 
 ![](images/keep-calm-and-git-it-on.png)
@@ -167,7 +162,6 @@ See also my [Introduction to Digital Lab Journalling](http://prezi.com/p_se6nkre
 - Trees of Life
   1. Tim Bousquet (The Coast, 2009-Oct-8) [Doolittle, Darwin and the Deeply Dumb](http://www.thecoast.ca/halifax/doolittle-darwin-and-the-deeply-dumb/Content?oid=1320808)
   1. Smets & Barkay (2005) [Horizontal gene transfer: perspectives at a crossroads of scientific disciplines](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
-- [Sharing credit](http://theupturnedmicroscope.com/comic/sharing-credit/): Nik Papageorgiou (Upturned microscope) 
 
 ### To do
 
