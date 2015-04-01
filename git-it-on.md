@@ -108,6 +108,13 @@ date: 2015-Apr-13
 
 ![](images/versions-git-split.png)
 
+### Combined advantages
+
+> - Explorer/Finder displays only latest file versions
+> - Git client makes version history accessible
+> - adapts to your work-flow
+> - encourages & rewards improvement
+
 ### Basic vocabulary
 
 - **repository:** Git's database of file versions in a watched folder
