@@ -7,11 +7,7 @@ date: 2015-Apr-13
 
 ### Remember Ansgar's "Tree of Life"-talk?
 
-![](images/doolittle-tree.jpg)
-
-### Remember Ansgar's "Tree of Life"-talk?
-
-![](images/Horizontal-gene-transfer-ori.jpg)
+[![](images/doolittle-tree.jpg "Tim Bousquet (The Coast, 2009-Oct-8) Doolittle, Darwin and the Deeply Dumb")](http://www.thecoast.ca/halifax/doolittle-darwin-and-the-deeply-dumb/Content?oid=1320808)
 
 ### What is evolution?
 
@@ -19,23 +15,24 @@ date: 2015-Apr-13
 
 ### What is evolution?
 
-#### Genetic changes; chronologically ordered by inheritance. Forward: ever; backwards: never.
+[![](images/Horizontal-gene-transfer-ori.jpg "Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
+
+#### Genetic changes; chronologically ordered by inheritance.
+
+### Projects live & evolve, too! And largely digitally, nowadays. 
+
+> 1. ideas => implementations => observations & data collection => repetitions & optimisations
+> 1. discussions of results => reports, posters, talks, manuscripts, etc.
 
 ![](images/Horizontal-gene-transfer-no-domains.png)
 
-### Projects live & evolve, too!
-
-> 1. adapting & optimising published protocol
-> 1. experiments => raw data & observations
-> 1. discussion of results => poster, manuscript, ideas for next experiment
-
-### A lab journal therefore needs:
+### Lab journals need
 
 > 1. chronological, verified order => page numbers & manual dating?
 > 1. highlighting of changes => coloration?
 
-> - can't be shared easily (not even read-only)
-> - nor written collaboratively
+> - can't be shared easily (not even read-only), nor written collaboratively
+> - limited by page space
 > - searching through handwriting is for historians
 
 ### Git offers
@@ -161,8 +158,3 @@ date: 2015-Apr-13
 ![](images/keep-calm-and-git-it-on.png)
 
 See also my [Introduction to Digital Lab Journalling](http://prezi.com/p_se6nkre49m/digital-lab-journalling-intro/).
-
-### Image Credits
-
-1. Tim Bousquet (The Coast, 2009-Oct-8) [Doolittle, Darwin and the Deeply Dumb](http://www.thecoast.ca/halifax/doolittle-darwin-and-the-deeply-dumb/Content?oid=1320808)
-1. Smets & Barkay (2005) [Horizontal gene transfer: perspectives at a crossroads of scientific disciplines](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)

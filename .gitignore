@@ -1,4 +1,3 @@
-images/
 git-it-on.tex
 *.aux
 *.fdb_latexmk
@@ -9,3 +8,4 @@ git-it-on.tex
 *.snm
 *.toc
 *.out
+*.xcf
