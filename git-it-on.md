@@ -19,10 +19,10 @@ date: 2015-Apr-13
 
 #### Genetic changes; chronologically ordered by inheritance.
 
-### Projects live & evolve, too! And largely digitally, nowadays. 
+### Projects live & evolve, too! Largely digitally. 
 
 > 1. ideas => implementations => observations & data collection => repetitions & optimisations
-> 1. discussions of results => reports, posters, talks, manuscripts, etc.
+> 1. discussions of results => reports, posters, talks, manuscripts, etc. => feedback from collauges => new ideas
 
 ![](images/Horizontal-gene-transfer-no-domains.png)
 
@@ -31,11 +31,13 @@ date: 2015-Apr-13
 > 1. chronological, verified order => page numbers & manual dating?
 > 1. highlighting of changes => coloration?
 
+#### Paper is limited
+
 > - can't be shared easily (not even read-only), nor written collaboratively
-> - limited by page space
+> - by page space
 > - searching through handwriting is for historians
 
-### Git offers
+#### Git offers
 
 > - mathematically verified order of changes
 > - comment for each change
@@ -94,28 +96,21 @@ date: 2015-Apr-13
 > - ultimately eases collaborative work on same set of files
 > - teaches basics of best software tools
 
----
-
-- [ ] this section breaks flow
-
-### Good against: Too many files.
+### Good against: too many files
 
 ![](images/versions-win-explorer.png)
 
-### Good against: Unnamed versions.
+### Good against: unnamed versions
 
 ![](images/versions-crashplan.png)
 
-### Good for: Documentation.
+### Good for: clean view on files plus accessible version history 
 
-![](images/versions-git-split.png)
+![](images/files-in-finder.png)
 
-### Combined advantages
+### Good for: clean view on files plus accessible version history 
 
-> - Explorer/Finder displays only latest file versions
-> - Git client makes version history accessible
-> - adapts to your work-flow
-> - encourages & rewards improvement
+![](file-changes-in-GitHub.png)
 
 ### Basic vocabulary
 
