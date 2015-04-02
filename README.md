@@ -136,7 +136,6 @@ date: 2015-Apr-13
 > - **switching branches:** letting Git serve only the files in that branch to you
 > - **merging:** integration of changes from one branch into another
 
-
 ### How to start using it?
 
 > 1. Wait for small, new project (report, diagram in R
@@ -152,5 +151,11 @@ date: 2015-Apr-13
 
 ![](images/keep-calm-and-git-it-on.png)
 
-- Came a long way from [Introduction to Digital Lab Journalling](http://prezi.com/p_se6nkre49m/digital-lab-journalling-intro/).
-- Thanks to [Jens Erat's Scientific Markdown](https://github.com/JensErat/scientific-markdown)
+##### Came a long way from [Introduction to Digital Lab Journalling](http://prezi.com/p_se6nkre49m/digital-lab-journalling-intro/).
+
+##### Thanks to & Further Reading
+
+- Jens Erat's [Scientific Markdown](https://github.com/JensErat/scientific-markdown)
+- [Molly Gibson](https://github.com/mollygibson)'s [Git for Scientists](https://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html)
+- http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/
+- http://marciovm.com/i-want-a-github-of-science/
