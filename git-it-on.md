@@ -21,22 +21,28 @@ date: 2015-Apr-13
 
 #### Genetic changes; chronologically ordered by inheritance. Forward: ever; backwards: never.
 
-![](images/Horizontal-gene-transfer-no-domains.jpg)
+![](images/Horizontal-gene-transfer-no-domains.png)
 
 ### Projects live & evolve, too!
 
-> 1. wild type organism => transformation => knock-out mutant
-> 1. experiments => results & observations
-> 1. discussions & writing => plans for next experiment
+> 1. adapting & optimising published protocol
+> 1. experiments => raw data & observations
+> 1. discussion of results => poster, manuscript, ideas for next experiment
 
 ### A lab journal therefore needs:
 
-> 1. chronological, verified order => achieved on paper with page numbers?
-> 1. highlighting of changes => colors, dates?
+> 1. chronological, verified order => page numbers & manual dating?
+> 1. highlighting of changes => coloration?
 
 > - can't be shared easily (not even read-only)
 > - nor written collaboratively
 > - searching through handwriting is for historians
+
+### Git offers
+
+> - mathematically verified order of changes
+> - comment for each change
+> - automatic highlighting of changes 
 
 ### What is Git?
 
@@ -70,7 +76,7 @@ date: 2015-Apr-13
 
 > [A] free and open source **distributed** version control system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
-**asynchronous team-work**
+#### asynchronous team-work
 
 > - entire database of project history is stored in each project folder
 > - sync changes via Git server (like comments in JPY-PDF)
