@@ -39,9 +39,9 @@ date: 2015-Apr-13
 
 #### Git offers
 
-> - mathematically verified order of changes
-> - comment for each change
-> - automatic highlighting of changes 
+> - [mathematically verified](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) order of changes
+> - comment/message for each change
+> - automatic highlighting of changes
 
 ### What is Git?
 
@@ -152,4 +152,5 @@ date: 2015-Apr-13
 
 ![](images/keep-calm-and-git-it-on.png)
 
-See also my [Introduction to Digital Lab Journalling](http://prezi.com/p_se6nkre49m/digital-lab-journalling-intro/).
+- Came a long way from [Introduction to Digital Lab Journalling](http://prezi.com/p_se6nkre49m/digital-lab-journalling-intro/).
+- Thanks to [Jens Erat's Scientific Markdown](https://github.com/JensErat/scientific-markdown)
