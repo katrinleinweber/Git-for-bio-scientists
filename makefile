@@ -5,7 +5,7 @@ clean:
 			--to beamer \
 			--include-in-header presentation-header.tex \
 			--output git-it-on.tex \
-			git-it-on.md
+			README.md
 		latexmk -pdflatex="pdflatex --shell-escape %O %S" -pdf git-it-on.tex
 
 all:
@@ -13,7 +13,7 @@ all:
 		reveal
 	
 beamer:
-		pandoc -t beamer -i git-it-on.md -o git-it-on.pdf
+		pandoc -t beamer -i README.md -o git-it-on.pdf
 		
 reveal:
 		pandoc \
@@ -21,4 +21,4 @@ reveal:
 			-t dzslides \
 			--self-contained \
 			-o git-it-on.html \
-			git-it-on.md 
+			README.md 
