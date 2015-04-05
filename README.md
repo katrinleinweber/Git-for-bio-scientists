@@ -104,15 +104,13 @@ date: 2015-Apr-13
 
 ![](images/versions-crashplan.png)
 
-### Good for: clean view on files plus accessible version history 
+### Good for: clean view on files plus accessible version history
 
 ![](images/files-in-explorer.png)
 
-### Good for: clean view on files plus accessible version history 
+### Good for: clean view on files plus accessible version history
 
 ![](images/file-changes-in-GitHub.png)
-
-- [ ] make same screenshot on Win
 
 ### Basic vocabulary
 
@@ -126,18 +124,6 @@ date: 2015-Apr-13
 
 ![](images/logical-commit-across-files.png)
 
-### Advanced vocabulary
-
-> - **branches:** different contexts in same repository (cheaply created for a side experiment & then either merged or deleted)
-> - DEMO: `Git it on > experiments`
-
-![](images/branching-illustration.png)
-
-### Advanced vocabulary
-
-> - **switching branches:** letting Git serve only the files in that branch to you
-> - **merging:** integration of changes from one branch into another
-
 ### How to start using it?
 
 > 1. Wait for small, new project (report, diagram in R
@@ -145,7 +131,7 @@ date: 2015-Apr-13
 > 1. create new folder initialise it as a repository
 > 1. start adding files & editing them
 > 1. commit logically connected edits and changes 
-> 1. *Optional* (for collaboration, off-site backup, publishing, etc): create account with a Git-hosting service like [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/)*
+> 1. *Optional (for collaboration, off-site backup, publishing, etc): create account with a Git-hosting service like [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/)*
 
 - [ ] or at [git.uni.kn](https://git.uni-konstanz.de/users/sign_in)
 
