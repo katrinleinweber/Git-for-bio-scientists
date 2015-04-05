@@ -114,7 +114,7 @@ date: 2015-Apr-13
 
 ### Basic vocabulary
 
-- **repository:** Git's database of file versions in a watched folder
+- **repository/repo:** Git's database of file versions in a watched folder
 
 ![](images/repo-folder.png)
 
@@ -126,12 +126,12 @@ date: 2015-Apr-13
 
 ### How to start using it?
 
-> 1. Wait for small, new project (report, diagram in R
-> 1. Download a Git client (for example from windows.github.com, or check [git-scm.com/downloads/guis](http://git-scm.com/download/gui/win)) & install
-> 1. create new folder initialise it as a repository
+> 1. download [GitHub for Windows](https://windows.github.com/) or another Git client, see [git-scm.com/downloads/guis](http://git-scm.com/download/gui/win) & install
+> 1. wait for small, new project (report, diagram in R)
+> 1. drag project folder into GitHub client to initialise the repo
 > 1. start adding files & editing them
-> 1. commit logically connected edits and changes 
-> 1. *Optional (for collaboration, off-site backup, publishing, etc): create account with a Git-hosting service like [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/)*
+> 1. commit logically connected changes with meaningful comment
+> 1. *optional (for collaboration, off-site backup, publishing, etc): create account with a Git-hosting service like [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/), etc. & push/sync the local repo*
 
 - [ ] or at [git.uni.kn](https://git.uni-konstanz.de/users/sign_in)
 
