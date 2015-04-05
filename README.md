@@ -145,5 +145,5 @@ date: 2015-Apr-13
 
 - Jens Erat's [Scientific Markdown](https://github.com/JensErat/scientific-markdown)
 - [Molly Gibson](https://github.com/mollygibson)'s [Git for Scientists](https://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html)
-- http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/
-- http://marciovm.com/i-want-a-github-of-science/
+- [Carly Strasser](http://carlystrasser.net/)'s [Git/GitHub: a Primer for Researchers](http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/)
+- [Marcio von Muhlen](https://twitter.com/marciovm)'s [We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/)
