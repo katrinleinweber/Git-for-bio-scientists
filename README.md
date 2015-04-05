@@ -28,13 +28,13 @@ date: 2015-Apr-13
 
 ### Lab journals need
 
-> 1. chronological, verified order => page numbers & manual dating?
+> 1. chronologic, verified order => page numbers & manual dating?
 > 1. highlighting of changes => coloration?
 
 #### Paper is limited
 
-> - can't be shared easily (not even read-only), nor written collaboratively
 > - by page space
+> - can't be shared easily (not even read-only), nor written collaboratively
 > - searching through handwriting is for historians
 
 #### Git offers
