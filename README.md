@@ -24,7 +24,7 @@ date: 2015-Apr-13
 > 1. ideas => implementations => observations & data collection => repetitions & optimisations
 > 1. discussions of results => reports, posters, talks, manuscripts, etc. => feedback from collauges => new ideas
 
-![](images/Horizontal-gene-transfer-no-domains.png)
+![](images/Horizontal-info-transfer.png)
 
 ### Lab journals need
 
@@ -104,13 +104,15 @@ date: 2015-Apr-13
 
 ![](images/versions-crashplan.png)
 
-### Good for: clean view on files plus accessible version history
+### Good for: clean view on files plus accessible version history 
 
 ![](images/files-in-explorer.png)
 
-### Good for: clean view on files plus accessible version history
+### Good for: clean view on files plus accessible version history 
 
 ![](images/file-changes-in-GitHub.png)
+
+- [ ] make same screenshot on Win
 
 ### Basic vocabulary
 
@@ -123,6 +125,20 @@ date: 2015-Apr-13
 - **commit:** set of logically connected changes within same (or across different) file(s) that are checked into the repository
 
 ![](images/logical-commit-across-files.png)
+
+### Advanced vocabulary
+
+> - **branches:** different contexts in same repository (cheaply created for a side experiment & then either merged or deleted)
+
+![](images/Horizontal-info-transfer.png)
+
+### Advanced vocabulary
+
+> - **switching branches:** letting Git serve only the files in that branch to you
+> - **merging:** integration of changes from one branch into another
+> - DEMO: `Git it on > experiments`
+
+![](images/git-branching.png)
 
 ### How to start using it?
 
