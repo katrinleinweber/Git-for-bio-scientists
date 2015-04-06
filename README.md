@@ -11,9 +11,9 @@ date: 2015-Apr-13
 
 ### What is evolution?
 
-[![](images/change-we-can-believe-in.jpg "More Darwin (Mike Rosulek,2009-Feb-20)")](http://www.mikero.com/misc/darwin/)
+[![](images/change-we-can-believe-in.jpg "More Darwin (Mike Rosulek, 2009-Feb-20)")](http://www.mikero.com/misc/darwin/)
 
-### What is evolution? Inheritance of genetic changes!
+### What is evolution? Inheritance of genetic changes.
 
 [![](images/Horizontal-gene-transfer-ori.jpg "Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
 
@@ -21,22 +21,17 @@ date: 2015-Apr-13
 
 ![](images/Horizontal-info-transfer.png)
 
-### Lab journals need
+### Git helps track such changes.
 
-> 1. chronologic, verified order => page numbers & manual dating?
-> 1. highlighting of changes => coloration?
+> - commenting => easy-to-understand description/summary of change(s)
+> - [mathematic verification](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) => nothing can change without Git noticing it
+> - automatic visualisation => quick reminder of what you did
 
-#### Paper is limited
+![](images/Git-helps.png)
 
-> - by page space
-> - can't be shared easily (not even read-only), nor written collaboratively
-> - searching through handwriting is for historians
+### Git helps track such changes.
 
-#### Git offers
-
-> - [mathematically verified](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) order of changes
-> - comment/message for each change
-> - automatic highlighting of changes
+![](images/watchdog.png)
 
 ### What is Git?
 
