@@ -72,20 +72,6 @@ date: 2015-Apr-13
 > - collisions only if same lines are edited (Dropbox?)
 > - DEMO: `Paper-Now-Achmi...`
 
-### Summary of Git's properties
-
-#### Technically
-
-> - works very well for text, semi-well for images
-> - gives you control over, and knowledge plus proof of, file changes
-> - gratis backup & cheap syncing
-
-#### Culturally
-
-> - enables precise documentation (for colleagues, students, reviewers, your future self, etc.)
-> - ultimately eases collaborative work on same set of files
-> - teaches basics of best software tools
-
 ### Good against: too many files
 
 ![](images/versions-win-explorer.png)
@@ -129,6 +115,20 @@ date: 2015-Apr-13
 > - DEMO: `Git it on > experiments`
 
 ![](images/git-branching.png)
+
+### Summary of Git's properties
+
+#### Technically
+
+> - works very well for text, semi-well for images
+> - gives you control over, and knowledge plus proof of, file changes
+> - gratis backup & cheap syncing
+
+#### Culturally
+
+> - enables precise documentation (for colleagues, students, reviewers, your future self, etc.)
+> - ultimately eases collaborative work on same set of files
+> - teaches basics of best software tools
 
 ### How to start using it?
 
