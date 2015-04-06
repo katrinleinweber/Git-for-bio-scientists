@@ -37,7 +37,7 @@ date: 2015-Apr-13
 
 > [A] free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
-![](images/git-logo.png)
+[![](images/Git-logo-2Color.png "Git logo by Jason Long; CC BY 3.0 via Wikimedia Commons")](http://git-scm.com/downloads/logos)
 
 ### What is Git?
 
