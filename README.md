@@ -5,19 +5,19 @@ author: Katrin Leinweber
 date: 2015-Apr-13
 ---
 
-### Remember Ansgar's "Tree of Life"-talk?
-
-[![](images/doolittle-tree.jpg "Doolittle, Darwin and the Deeply Dumb (Tim Bousquet, The Coast, 2009-Oct-8)")](http://www.thecoast.ca/halifax/doolittle-darwin-and-the-deeply-dumb/Content?oid=1320808)
-
 ### What is evolution?
 
 [![](images/change-we-can-believe-in.jpg "More Darwin (Mike Rosulek, 2009-Feb-20)")](http://www.mikero.com/misc/darwin/)
+
+### Remember Ansgar's "Tree of Life"-talk?
+
+[![](images/doolittle-tree.jpg "Doolittle, Darwin and the Deeply Dumb (Tim Bousquet, The Coast, 2009-Oct-8)")](http://www.thecoast.ca/halifax/doolittle-darwin-and-the-deeply-dumb/Content?oid=1320808)
 
 ### What is evolution? Inheritance of genetic changes.
 
 [![](images/Horizontal-gene-transfer-ori.jpg "Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
 
-### Projects evolve, too! Digital records amass and change.
+### Projects evolve, too! Largey digitally.
 
 ![](images/Horizontal-info-transfer.png)
 
@@ -88,8 +88,6 @@ date: 2015-Apr-13
 
 ![](images/file-changes-in-GitHub.png)
 
-- [ ] make same screenshot on Win
-
 ### Basic vocabulary
 
 - **repository/repo:** Git's database of file versions in a watched folder
@@ -132,24 +130,23 @@ date: 2015-Apr-13
 
 ### How to start using it?
 
-> 1. download [GitHub for Windows](https://windows.github.com/) or another Git client, see [git-scm.com/downloads/guis](http://git-scm.com/download/gui/win) & install
-> 1. wait for small, new project (report, diagram in R)
+> 1. download client from [windows.github.com](https://windows.github.com/) (any other from [git-scm.com/downloads/guis](http://git-scm.com/download/gui/win)) & install
+> 1. wait for new, small sub-project (report, diagram in R, )
 > 1. drag project folder into GitHub client to initialise the repo
-> 1. start adding files & editing them
-> 1. commit logically connected changes with meaningful comment
-> 1. *optional (for collaboration, off-site backup, publishing, etc): create account with a Git-hosting service like [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/), etc. & push/sync the local repo*
+> 1. edit, add & delete files normally
+> 1. select logically connected changes, add meaningful comment & commit
+> 1. **optional, but useful for collaboration, off-site backup, publishing, etc.:** create account with a Git-hosting service like [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/) & push/sync your local repo
 
 - [ ] or at [git.uni.kn](https://git.uni-konstanz.de/users/sign_in)
 
-### The End
+### Questions?
 
 ![](images/keep-calm-and-git-it-on.png)
 
-##### Came a long way from [Introduction to Digital Lab Journalling](http://prezi.com/p_se6nkre49m/digital-lab-journalling-intro/).
-
-##### Thanks to & Further Reading
+### Thanks to & Further Reading
 
 - Jens Erat's [Scientific Markdown](https://github.com/JensErat/scientific-markdown)
 - [Molly Gibson](https://github.com/mollygibson)'s [Git for Scientists](https://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html)
 - [Carly Strasser](http://carlystrasser.net/)'s [Git/GitHub: a Primer for Researchers](http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/)
 - [Marcio von Muhlen](https://twitter.com/marciovm)'s [We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/)
+- my old [Introduction to Digital Lab Journalling](http://prezi.com/p_se6nkre49m/digital-lab-journalling-intro/)
