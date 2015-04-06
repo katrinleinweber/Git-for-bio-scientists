@@ -13,16 +13,11 @@ date: 2015-Apr-13
 
 [![](images/change-we-can-believe-in.jpg "More Darwin (Mike Rosulek,2009-Feb-20)")](http://www.mikero.com/misc/darwin/)
 
-### What is evolution?
+### What is evolution? Inheritance of genetic changes!
 
 [![](images/Horizontal-gene-transfer-ori.jpg "Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
 
-#### Genetic changes; chronologically ordered by inheritance.
-
-### Projects live & evolve, too! Largely digitally. 
-
-> 1. ideas => implementations => observations & data collection => repetitions & optimisations
-> 1. discussions of results => reports, posters, talks, manuscripts, etc. => feedback from collauges => new ideas
+### Projects evolve, too! Digital records amass and change.
 
 ![](images/Horizontal-info-transfer.png)
 
