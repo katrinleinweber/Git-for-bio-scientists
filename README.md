@@ -7,7 +7,7 @@ date: 2015-Apr-13
 
 ### Remember Ansgar's "Tree of Life"-talk?
 
-[![](images/doolittle-tree.jpg "Doolittle, Darwin and the Deeply Dumb (Tim Bousquet, The Coast, 2009-Oct-8)")](http://www.thecoast.ca/halifax/doolittle-darwin-and-the-deeply-dumb/Content?oid=1320808)
+[![](images/doolittle-tree.jpg "Phylogenetic Classification and the Universal Tree (Ford Doolittle, Science, 1999")](http://www.sciencemag.org/content/284/5423/2124.full)
 
 ### What is evolution? Inheritance of genetic changes.
 
@@ -31,13 +31,13 @@ date: 2015-Apr-13
 
 ### What is Git?
 
-> [A] free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
+> [A] free and open source distributed version control \newline system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
 [![](images/Git-logo-2Color.png "Git logo by Jason Long; CC BY 3.0 via Wikimedia Commons")](http://git-scm.com/downloads/logos)
 
 ### What is Git?
 
-> [A] free and open source distributed version control system designed to **handle everything** from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
+> [A] free and open source distributed version control \newline system designed to **handle everything** from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
 #### all types of files
 
@@ -48,24 +48,24 @@ date: 2015-Apr-13
 
 ### What is Git?
 
-> [A] free and open source distributed **version control** system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
+> [A] free and open source distributed **version control** \newline system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
 #### control over document versions
 
 > - record, comment & highlight changes
 > - revert old changes & restore old file versions
-> - per line if necessary => better than backup or wiki
+> - per line if necessary => normal backup systems can restore files only entirely
 > - DEMO: `F0-legends > moved incubation times...` 
 
 ### What is Git?
 
-> [A] free and open source **distributed** version control system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
+> [A] free and open source **distributed** version control \newline system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
 #### team-work
 
 > - entire database of project history is stored in each project folder
 > - sync changes via Git hosting service (like comments in JPY-PDF)
-> - conflicts only if same lines in same file are edited (unlike [Dropbox](https://www.dropbox.com/help/36) & Co.)
+> - conflicts only if same lines in same file are changed
 > - DEMO: `Paper-Now-Achmi...`
 
 ### Good against: too many files
@@ -122,6 +122,7 @@ date: 2015-Apr-13
 
 > - works very well for text, semi-well for images
 > - gives you control over, and knowledge plus proof of, file changes
+> - gratis backup & cheap syncing (at least for text & small image files, but not a replacement!)
 
 #### Cultural
 
@@ -136,6 +137,7 @@ date: 2015-Apr-13
 > 1. edit, add & delete files as before
 > 1. **but:** commit logically connected changes often
 > 1. **recommended:** start writing text in .markdown or .txt, instead of .docx
+> 1. **optional (for team-work, etc.):** wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) or create account at [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/), etc. & push/sync your local repo
 
 ### A word on Git, Git clients and Git hosting services
 
