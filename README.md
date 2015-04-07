@@ -138,6 +138,15 @@ date: 2015-Apr-13
 > 1. **recommended:** start writing text in .markdown or .txt, instead of .docx
 > 1. **optional (enables collaboration, off-site backup, publishing, etc.):** wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) or create account at [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/) & push/sync your local repo
 
+### A word on Git, Git clients and Git hosting services
+
+![](images/Git-client-vs-shell.png)
+
+### A word on Git, Git clients and Git hosting services
+
+> - Git = the software itself, accessible only through **c**ommand **l**ine **i**nterface
+> - Git client (like GitHub for Windows) = **g**raphical **u**ser **i**nterface presents Git's functions nicely in buttons etc.
+> - Git hosting service = remote copy of repos, plus discussions, wiki, auto-publishing etc.
 
 ### Questions?
 
