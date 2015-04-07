@@ -111,24 +111,22 @@ date: 2015-Apr-13
 ### Advanced vocabulary
 
 > - **switching branches:** letting Git serve only the files in that branch to you
-> - **merging:** integration of changes from one branch into another
+> - **merging:** integration of file changes from one branch into another (per line within files even)
 > - DEMO: `Git it on > experiments`
 
 ![](images/git-branching.png)
 
 ### Summary of Git's properties
 
-#### Technically
+#### Technical
 
 > - works very well for text, semi-well for images
 > - gives you control over, and knowledge plus proof of, file changes
-> - gratis backup & cheap syncing
 
-#### Culturally
+#### Cultural
 
 > - enables precise documentation (for colleagues, students, reviewers, your future self, etc.)
-> - ultimately eases collaborative work on same set of files
-> - teaches basics of best software tools
+> - eases team-work on same set of files
 
 ### How to start using it?
 
@@ -136,9 +134,8 @@ date: 2015-Apr-13
 > 1. wait for new, small sub-project (bioinformatic script, diagram in R, report, etc.)
 > 1. drag project folder into GitHub client to initialise the repo
 > 1. edit, add & delete files as before
-> 1. **but:** commit logically connected changes often to
+> 1. **but:** commit logically connected changes often
 > 1. **recommended:** start writing text in .markdown or .txt, instead of .docx
-> 1. **optional (enables collaboration, off-site backup, publishing, etc.):** wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) or create account at [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/) & push/sync your local repo
 
 ### A word on Git, Git clients and Git hosting services
 
@@ -148,7 +145,7 @@ date: 2015-Apr-13
 
 > - Git = the software itself, accessible only through **c**ommand **l**ine **i**nterface
 > - Git client (like GitHub for Windows) = **g**raphical **u**ser **i**nterface presents Git's functions nicely in buttons etc.
-> - Git hosting service = remote copy of repos, plus discussions, wiki, auto-publishing etc.
+> - Git hosting service = remote copy of repos to which local repo copies are sync'ed/pushed; can have discussion area, wiki, auto-publishing etc.
 
 ### Questions?
 
