@@ -5,10 +5,6 @@ author: Katrin Leinweber
 date: 2015-Apr-13
 ---
 
-### What is evolution?
-
-[![](images/change-we-can-believe-in.jpg "More Darwin (Mike Rosulek, 2009-Feb-20)")](http://www.mikero.com/misc/darwin/)
-
 ### Remember Ansgar's "Tree of Life"-talk?
 
 [![](images/doolittle-tree.jpg "Doolittle, Darwin and the Deeply Dumb (Tim Bousquet, The Coast, 2009-Oct-8)")](http://www.thecoast.ca/halifax/doolittle-darwin-and-the-deeply-dumb/Content?oid=1320808)
