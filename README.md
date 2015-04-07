@@ -65,11 +65,11 @@ date: 2015-Apr-13
 
 > [A] free and open source **distributed** version control system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
-#### asynchronous team-work
+#### team-work
 
 > - entire database of project history is stored in each project folder
-> - sync changes via Git server (like comments in JPY-PDF)
-> - collisions only if same lines are edited (Dropbox?)
+> - sync changes via Git hosting service (like comments in JPY-PDF)
+> - conflicts only if same lines in same file are edited (unlike [Dropbox](https://www.dropbox.com/help/36) & Co.)
 > - DEMO: `Paper-Now-Achmi...`
 
 ### Good against: too many files
@@ -80,11 +80,11 @@ date: 2015-Apr-13
 
 ![](images/versions-crashplan.png)
 
-### Good for: clean view on files plus accessible version history 
+### Good for: Tidy project folders, but...
 
 ![](images/files-in-explorer.png)
 
-### Good for: clean view on files plus accessible version history 
+### Good for: ...version history still accessible
 
 ![](images/file-changes-in-GitHub.png)
 
