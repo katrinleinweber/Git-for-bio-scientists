@@ -131,13 +131,13 @@ date: 2015-Apr-13
 ### How to start using it?
 
 > 1. download client from [windows.github.com](https://windows.github.com/) (any other from [git-scm.com/downloads/guis](http://git-scm.com/download/gui/win)) & install
-> 1. wait for new, small sub-project (report, diagram in R, )
+> 1. wait for new, small sub-project (bioinformatic script, diagram in R, report, etc.)
 > 1. drag project folder into GitHub client to initialise the repo
-> 1. edit, add & delete files normally
-> 1. select logically connected changes, add meaningful comment & commit
-> 1. **optional, but useful for collaboration, off-site backup, publishing, etc.:** create account with a Git-hosting service like [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/) & push/sync your local repo
+> 1. edit, add & delete files as before
+> 1. **but:** commit logically connected changes often to
+> 1. **recommended:** start writing text in .markdown or .txt, instead of .docx
+> 1. **optional (enables collaboration, off-site backup, publishing, etc.):** wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) or create account at [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/) & push/sync your local repo
 
-- [ ] or at [git.uni.kn](https://git.uni-konstanz.de/users/sign_in)
 
 ### Questions?
 
