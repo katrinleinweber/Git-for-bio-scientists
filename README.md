@@ -145,9 +145,8 @@ date: 2015-Apr-13
 
 ### Thanks to & Further Reading
 
-- Jens Erat's [Scientific Markdown](https://github.com/JensErat/scientific-markdown)
-- [Molly Gibson](https://github.com/mollygibson)'s [Git for Scientists](https://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html)
-- [Carly Strasser](http://carlystrasser.net/)'s [Git/GitHub: a Primer for Researchers](http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/)
-- [Marcio von Muhlen](https://twitter.com/marciovm)'s [We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/)
-- [Jennifer Cloer](https://twitter.com/JenniferCloer)'s [10 Years of Git: An Interview with Git Creator Linus Torvalds](https://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds/)
-- my old [Introduction to Digital Lab Journalling](http://prezi.com/p_se6nkre49m/digital-lab-journalling-intro/)
+- "[Scientific Markdown](https://github.com/JensErat/scientific-markdown)" by Jens Erat
+- "[Git for Scientists](https://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html)" by [Molly Gibson](https://github.com/mollygibson)
+- "[Git/GitHub: a Primer for Researchers](http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/)" by [Carly Strasser](http://carlystrasser.net/)
+- "[We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/)" by [Marcio von Muhlen](https://twitter.com/marciovm)
+- "[10 Years of Git: An Interview with Git Creator Linus Torvalds](https://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds/)" by [Jennifer Cloer](https://twitter.com/JenniferCloer)
