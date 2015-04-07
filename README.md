@@ -29,7 +29,7 @@ date: 2015-Apr-13
 
 ![](images/Git-helps.png)
 
-### Git helps track such changes.
+### Git helps track such changes. Is your file watchdog!
 
 ![](images/watchdog.png)
 
@@ -45,9 +45,9 @@ date: 2015-Apr-13
 
 #### all types of files
 
-> - like good backup system
-> - very useful for line- or paragraph-based text files
+> - very useful for text files (TXT, R, etc.)
 > - medium useful for images (JPG, PNG, etc.)
+> - not useful for complex files (DOC, XLS, PDF, etc.) => .gitignore
 > - DEMO: `F0-legends > initial` & `150224-30m > final`
 
 ### What is Git?
@@ -99,6 +99,12 @@ date: 2015-Apr-13
 - **commit:** set of logically connected changes within same (or across different) file(s) that are checked into the repository
 
 ![](images/logical-commit-across-files.png)
+
+### Basic vocabulary
+
+- **.gitignore:** file in which files and file types are listed that Git should ignore
+
+![](images/unignore-files.png)
 
 ### Advanced vocabulary
 
