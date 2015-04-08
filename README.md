@@ -13,7 +13,7 @@ date: 2015-Apr-13
 
 [![](images/Horizontal-gene-transfer-ori.jpg "Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
 
-### Projects evolve, too! Largey digitally.
+### Projects evolve, too! Largely digitally.
 
 ![](images/Horizontal-info-transfer.png)
 
@@ -31,31 +31,15 @@ date: 2015-Apr-13
 
 ### What is Git?
 
-> [A] free and open source distributed version control \newline system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
-
-[![](images/Git-logo-2Color.png "Git logo by Jason Long; CC BY 3.0 via Wikimedia Commons")](http://git-scm.com/downloads/logos)
-
-### What is Git?
-
-> [A] free and open source distributed version control \newline system designed to **handle everything** from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
-
-#### all types of files
-
-> - very useful for text files (TXT, R, etc.)
-> - medium useful for images (JPG, PNG, etc.)
-> - not useful for complex files (DOC, XLS, PDF, etc.) => .gitignore
-> - DEMO: `F0-legends > initial` & `150224-30m > final`
-
-### What is Git?
-
 > [A] free and open source distributed **version control** \newline system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
 #### control over document versions
 
-> - record, comment & highlight changes
+> - record, comment & highlight changes, esp. in text files and software source code
+> - also useful for images (JPG, PNG, etc.), but not complex files (DOC, XLS, PDF, etc.) => .gitignore
 > - revert old changes & restore old file versions
 > - per line if necessary => normal backup systems can restore files only entirely
-> - DEMO: `F0-legends > moved incubation times...` 
+> - DEMO: `F0-legends` & `150224-30m`
 
 ### What is Git?
 
@@ -110,8 +94,8 @@ date: 2015-Apr-13
 
 ### Advanced vocabulary
 
-> - **switching branches:** letting Git serve only the files in that branch to you
-> - **merging:** integration of file changes from one branch into another (per line within files even)
+> - **switching branches:** switch status of project folder (double-check!)
+> - **merging:** integrates changes into other branch (even per line)
 > - DEMO: `Git it on > experiments`
 
 ![](images/git-branching.png)
@@ -139,15 +123,15 @@ date: 2015-Apr-13
 > 1. **recommended:** start writing text in .markdown or .txt, instead of .docx
 > 1. **optional (for team-work, etc.):** wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) or create account at [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/), etc. & push/sync your local repo
 
-### A word on Git, Git clients and Git hosting services
+### Why not Git itself?
 
-![](images/Git-client-vs-shell.png)
-
-### A word on Git, Git clients and Git hosting services
-
-> - Git = the software itself, accessible only through **c**ommand **l**ine **i**nterface
+> - Git = accessible only through **c**ommand **l**ine **i**nterface
 > - Git client (like GitHub for Windows) = **g**raphical **u**ser **i**nterface presents Git's functions nicely in buttons etc.
 > - Git hosting service = remote copy of repos to which local repo copies are sync'ed/pushed; can have discussion area, wiki, auto-publishing etc.
+
+### Why not Git itself?
+
+![](images/Git-client-vs-shell.png "left: screenshot of GitHub for Windows with GitHub logo and Octocat, https://github.com/logos; right: screenshot of Git shell with Git logo by Jason Long, CC BY 3.0, https://git-scm.herokuapp.com/downloads/logos")
 
 ### Questions?
 
