@@ -88,6 +88,14 @@ license: CC-BY-4.0 for own content; image attribution in titles
 
 [![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (2010-Oct-17, Sindhu Radhakrishnan")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
 
+### Basic vocabulary
+
+> - **staging area:** select changes to commit after files were saved to disk
+> - add commit message & description
+> - add .gitignore rules via context menu
+
+![](images/uncommitted-changes.png)
+
 ### Advanced vocabulary
 
 > - **branches:** different contexts in same repository
