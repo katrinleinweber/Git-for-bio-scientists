@@ -17,11 +17,11 @@ date: 2015-Apr-13
 
 ![](images/Horizontal-info-transfer.png)
 
-### Git helps track such changes.
+### Git helps track such changes in your project files.
 
-> - commenting => easy-to-understand description/summary of change(s)
-> - [mathematic verification](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) => nothing can change without Git noticing it
-> - automatic visualisation => quick reminder of what you did
+> - automatic visualisation => What did I change?
+> - [cryptographic verification](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) => Nothing can change without notice!
+> - commenting => What does the change mean?
 
 ![](images/Git-helps.png)
 
@@ -29,16 +29,32 @@ date: 2015-Apr-13
 
 ![](images/watchdog.png)
 
+### Good against: too many files
+
+![](images/versions-win-explorer.png)
+
+### Good against: unnamed versions
+
+![](images/versions-crashplan.png)
+
+### Good for: tidy project folders, but...
+
+![](images/files-in-explorer.png)
+
+### Good for: ...version history still accessible
+
+![](images/file-changes-in-GitHub.png)
+
 ### What is Git?
 
 > [A] free and open source distributed **version control** \newline system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
 
 #### control over document versions
 
-> - record, comment & highlight changes, esp. in text files and software source code
-> - also useful for images (JPG, PNG, etc.), but not complex files (DOC, XLS, PDF, etc.) => .gitignore
-> - revert old changes & restore old file versions
-> - per line if necessary => normal backup systems can restore files only entirely
+> - record changes, esp. in text files and software source code
+> - also useful for images (JPG, PNG, etc.), but not complex files (DOC, XLS, PDF, etc.) 
+> - revert old changes, per line if necessary
+> - also restores files like from normal backup
 > - DEMO: `F0-legends` & `150224-30m`
 
 ### What is Git?
@@ -49,24 +65,8 @@ date: 2015-Apr-13
 
 > - entire database of project history is stored in each project folder
 > - sync changes via Git hosting service (like comments in JPY-PDF)
-> - conflicts only if same lines in same file are changed
+> - conflicts only for same line in same file
 > - DEMO: `Paper-Now-Achmi...`
-
-### Good against: too many files
-
-![](images/versions-win-explorer.png)
-
-### Good against: unnamed versions
-
-![](images/versions-crashplan.png)
-
-### Good for: Tidy project folders, but...
-
-![](images/files-in-explorer.png)
-
-### Good for: ...version history still accessible
-
-![](images/file-changes-in-GitHub.png)
 
 ### Basic vocabulary
 
@@ -82,13 +82,15 @@ date: 2015-Apr-13
 
 ### Basic vocabulary
 
-- **.gitignore:** file in which files and file types are listed that Git should ignore
+> - **.gitignore:** defines Git's ignore rules 
+> - add `*.docx`, `*.xlsx`, `*.pdf`, other large and complex files types
 
 ![](images/unignore-files.png)
 
 ### Advanced vocabulary
 
-> - **branches:** different contexts in same repository (cheaply created for a side experiment & then either merged or deleted)
+> - **branches:** different contexts in same repository
+> - created for a side experiment & then either merged or deleted)
 
 ![](images/Horizontal-info-transfer.png)
 
@@ -106,7 +108,7 @@ date: 2015-Apr-13
 
 > - works very well for text, semi-well for images
 > - gives you control over, and knowledge plus proof of, file changes
-> - gratis backup & cheap syncing (at least for text & small image files, but not a replacement!)
+> - gratis backup & cheap syncing => Not a replacement though, except for text & small image files!
 
 #### Cultural
 
