@@ -54,7 +54,6 @@ date: 2015-Apr-13
 > - record changes, esp. in text files and software source code
 > - also useful for images (JPG, PNG, etc.), but not complex files (DOC, XLS, PDF, etc.) 
 > - revert old changes, per line if necessary
-> - also restores files like from normal backup
 > - DEMO: `F0-legends` & `150224-30m`
 
 ### What is Git?
@@ -82,10 +81,11 @@ date: 2015-Apr-13
 
 ### Basic vocabulary
 
-> - **.gitignore:** defines Git's ignore rules 
-> - add `*.docx`, `*.xlsx`, `*.pdf`, other large and complex files types
+> - **.gitignore:** file that contains a repo's ignore rules
+> - No highlighting? Large file? Rather ignore!
+> - DEMO: `Git it on`
 
-![](images/unignore-files.png)
+[![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (2010-Oct-17, Sindhu Radhakrishnan")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
 
 ### Advanced vocabulary
 
