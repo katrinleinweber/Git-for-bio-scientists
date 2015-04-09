@@ -83,7 +83,7 @@ license: CC-BY-4.0 for own content; image attribution in titles
 ### Basic vocabulary
 
 > - **.gitignore:** file that contains a repo's ignore rules
-> - No highlighting? Large file? Rather ignore!
+> - No highlighting? Large file? Auto-generated? Rather ignore those!
 > - DEMO: `Git it on`
 
 [![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (2010-Oct-17, Sindhu Radhakrishnan")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
@@ -107,9 +107,9 @@ license: CC-BY-4.0 for own content; image attribution in titles
 
 #### Technical
 
-> - works very well for text, semi-well for images
-> - gives you control over, and knowledge plus proof of, file changes
-> - gratis backup & cheap syncing => Not a replacement though, except for text & small image files!
+> - works best for simple text & OK for images
+> - makes file changes and their history comprehensible & verifiable 
+> - gratis backup & syncing, but only for text & small image files
 
 #### Cultural
 
@@ -128,9 +128,9 @@ license: CC-BY-4.0 for own content; image attribution in titles
 
 ### Why not Git itself?
 
-> - Git = accessible only through **c**ommand **l**ine **i**nterface
-> - Git client (like GitHub for Windows) = **g**raphical **u**ser **i**nterface presents Git's functions nicely in buttons etc.
-> - Git hosting service = remote copy of repos to which local repo copies are sync'ed/pushed; can have discussion area, wiki, auto-publishing etc.
+> - Git has only **c**ommand **l**ine **i**nterface
+> - Git clients (like GitHub for Windows) present Git's functions nicely in **g**raphical **u**ser **i**nterface
+> - Git hosting service offer remote copy to which local repo(s) can be sync'ed/pushed, plus discussion area, wiki, auto-publishing etc.
 
 ### Why not Git itself?
 
