@@ -3,6 +3,7 @@ title: Git It On!
 subtitle: Di**git**al Lab Journalling with Git
 author: Katrin Leinweber
 date: 2015-Apr-13
+license: CC-BY-4.0 for own content; image attribution in titles
 ---
 
 ### Remember Ansgar's "Tree of Life"-talk?
@@ -25,7 +26,7 @@ date: 2015-Apr-13
 
 ![](images/Git-helps.png)
 
-### Git helps track such changes. Is your file watchdog!
+### Git is your file watchdog.
 
 ![](images/watchdog.png)
 
@@ -146,3 +147,4 @@ date: 2015-Apr-13
 - "[Git/GitHub: a Primer for Researchers](http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/)" by [Carly Strasser](http://carlystrasser.net/)
 - "[We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/)" by [Marcio von Muhlen](https://twitter.com/marciovm)
 - "[10 Years of Git: An Interview with Git Creator Linus Torvalds](https://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds/)" by [Jennifer Cloer](https://twitter.com/JenniferCloer)
+- "[Learn Version Control with Git](http://www.git-tower.com/learn/ebook/mac/basics/why-use-version-control#start)" course by the makers of the "[Tower](http://www.git-tower.com/)" Git client
