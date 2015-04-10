@@ -103,7 +103,7 @@ license: CC-BY-4.0 for own content; image attribution in titles
 > - add commit message & description
 > - add .gitignore rules via context menu
 
-![](images/uncommitted-changes.png)
+![](images/staging-area.png)
 
 ### Advanced vocabulary
 
