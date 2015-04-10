@@ -1,6 +1,5 @@
 ---
-title: Git It On!
-subtitle: Di**git**al Lab Journalling with Git
+title: Digital Lab Journalling with Git
 author: Katrin Leinweber
 date: 2015-Apr-13
 license: CC-BY-4.0 for own content; image attributions in titles
@@ -10,7 +9,7 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 [![](images/doolittle-tree.jpg "Phylogenetic Classification and the Universal Tree (Ford Doolittle, Science, 1999")](http://www.sciencemag.org/content/284/5423/2124.full)
 
-### What is evolution? Inheritance and persistence of genetic changes.
+### What is evolution? Inheritance of genetic changes.
 
 [![](images/Horizontal-gene-transfer-ori.jpg "Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
 
@@ -125,20 +124,14 @@ license: CC-BY-4.0 for own content; image attributions in titles
 ### How to start using it?
 
 > 1. download client from [windows.github.com](https://windows.github.com/) (any other from [git-scm.com/downloads/guis](http://git-scm.com/download/gui/win)) & install
-> 1. wait for new, small sub-project (bioinformatic script, diagram in R, report, etc.)
-> 1. drag project folder into GitHub client to initialise the repo
+> 1. start with small sub-project (protocol optimisation, diagram in R, report, etc.)
+> 1. drag & drop project folder into GitHub client to initialise the repo
 > 1. edit, add & delete files as before
 > 1. **but:** commit logically connected changes often
-> 1. **recommended:** start writing text in .markdown or .txt, instead of .docx
+> 1. **recommended:** start writing in .markdown, for example with [Writage](http://www.writage.com/)
 > 1. **optional (for team-work, etc.):** wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) or create account at [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/), etc. & push/sync your local repo
 
-### Why not Git itself?
-
-> - Git has only **c**ommand **l**ine **i**nterface
-> - Git clients (like GitHub for Windows) present Git's functions nicely in **g**raphical **u**ser **i**nterface
-> - Git hosting service offer remote copy to which local repo(s) can be sync'ed/pushed, plus discussion area, wiki, auto-publishing etc.
-
-### Why not Git itself?
+### Git GUI vs. CLI.
 
 ![](images/Git-client-vs-shell.png "left: screenshot of GitHub for Windows with GitHub logo and Octocat, https://github.com/logos; right: screenshot of Git shell with Git logo by Jason Long, CC BY 3.0, https://git-scm.herokuapp.com/downloads/logos")
 
