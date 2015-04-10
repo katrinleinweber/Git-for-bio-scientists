@@ -76,17 +76,26 @@ license: CC-BY-4.0 for own content; image attribution in titles
 
 ### Basic vocabulary
 
-- **commit:** set of logically connected changes within same (or across different) file(s) that are checked into the repository
+> - **commit:** set of logically connected file changes
+>- "checked into" the repo with a commit message
 
 ![](images/logical-commit-across-files.png)
 
 ### Basic vocabulary
 
-> - **.gitignore:** file that contains a repo's ignore rules
+> - **.gitignore:** file that contains a repo's  rules for ignoring files
 > - No highlighting? Large file? Auto-generated? Rather ignore those!
 > - DEMO: `Git it on`
 
-[![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (2010-Oct-17, Sindhu Radhakrishnan")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
+[![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (Sindhu Radhakrishnan, 2010")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
+
+### Basic vocabulary
+
+- **.gitignore:** file that contains a repo's ignore rules
+- No highlighting? Large file? Auto-generated? Rather ignore those!
+- `GitHub for Windows > Repository Settings`
+
+![](images/windows-gitignore-in-repo-settings.png)
 
 ### Basic vocabulary
 
