@@ -62,9 +62,9 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 #### team-work
 
-> - entire database of project history is stored in each project folder
-> - sync changes via Git hosting service (like comments in JPY-PDF)
-> - conflicts only for same line in same file
+> - changes to same set of files can be made independently
+> - seamless sync via Git hosting service (like Wiley Online Proofing System)
+> - conflicts only if same lines in same get changed
 > - DEMO: `Paper-Now-Achmi...`
 
 ### Basic Git vocabulary
@@ -103,23 +103,18 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 > - **branching:** creates new "evolutionary" line in repo
 > - switching branches updates status of project folder
-> - **merge:** integrates changes into other branch (per line)
+> - **merging:** integrates changes into other branch (per line)
 > - DEMO: `Git it on > experiments`
 
 ![](images/git-branching.png)
 
-### Summary of Git's properties
+### Vocabulary summary
 
-#### Technical
-
-> - works best for simple text & OK for images
-> - makes file changes and their history comprehensible & verifiable 
-> - gratis backup & syncing, but only for text & small image files
-
-#### Cultural
-
-> - enables precise documentation (for colleagues, students, reviewers, your future self, etc.)
-> - eases team-work on same set of files
+> - **repository/repo:** project folder watched by Git
+> - **commit:** set of logically connected file changes
+> - **.gitignore:** file that contains a repo's rules for ignoring files
+> - **staging area:** select changes to commit after files were saved to disk
+> - **branching:** creates new "evolutionary" line in repo
 
 ### How to start using it?
 
