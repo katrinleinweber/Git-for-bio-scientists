@@ -70,38 +70,29 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ### Basic Git vocabulary
 
-- **repository/repo:** Git's database of file versions in a watched folder
-
+> - **repository/repo:** project folder watched by Git
+> - database of file versions in hidden `.git` subfolder \
 ![](images/repo-folder.png)
 
 ### Basic Git vocabulary
 
-
 > - **commit:** set of logically connected file changes
->- "checked into" the repo with a commit message
 > - within single file or across different files
-
+> - "checked into" the repo with a commit message \
 ![](images/logical-commit-across-files.png)
 
 ### Basic Git vocabulary
 
-
-> - **.gitignore:** file that contains a repo's  rules for ignoring files
-> - No highlighting? Large file? Auto-generated? Rather ignore those!
+> - **.gitignore:** file that contains a repo's rules for ignoring files
+> - No highlighting? Large file? Auto-generated? Rather ignore those! \
+[![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (Sindhu Radhakrishnan, 2010")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
 > - DEMO: `Git it on`
 
-[![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (Sindhu Radhakrishnan, 2010")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
-
 ### Basic Git vocabulary
-
-- **.gitignore:** file that contains a repo's ignore rules
-- No highlighting? Large file? Auto-generated? Rather ignore those!
-- `GitHub for Windows > Repository Settings`
 
 ![](images/windows-gitignore-in-repo-settings.png)
 
 ### Basic Git vocabulary
-
 
 > - **staging area:** select changes to commit after files were saved to disk
 > - add commit message & description
@@ -111,16 +102,9 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ### Advanced Git vocabulary
 
-
-> - **branches:** different contexts in same repository
-> - created for a side experiment & then either merged or deleted
-
-![](images/Horizontal-info-transfer.png)
-
-### Advanced Git vocabulary
-
-> - **switching branches:** switch status of project folder (double-check!)
-> - **merging:** integrates changes into other branch (even per line)
+> - **branching:** creates new "evolutionary" line in repo
+> - switching branches updates status of project folder
+> - **merge:** integrates changes into other branch (per line)
 > - DEMO: `Git it on > experiments`
 
 ![](images/git-branching.png)
