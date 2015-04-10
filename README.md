@@ -3,14 +3,14 @@ title: Git It On!
 subtitle: Di**git**al Lab Journalling with Git
 author: Katrin Leinweber
 date: 2015-Apr-13
-license: CC-BY-4.0 for own content; image attribution in titles
+license: CC-BY-4.0 for own content; image attributions in titles
 ---
 
 ### Remember Ansgar's "Tree of Life"-talk?
 
 [![](images/doolittle-tree.jpg "Phylogenetic Classification and the Universal Tree (Ford Doolittle, Science, 1999")](http://www.sciencemag.org/content/284/5423/2124.full)
 
-### What is evolution? Inheritance of genetic changes.
+### What is evolution? Inheritance and persistence of genetic changes.
 
 [![](images/Horizontal-gene-transfer-ori.jpg "Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
 
@@ -18,11 +18,11 @@ license: CC-BY-4.0 for own content; image attribution in titles
 
 ![](images/Horizontal-info-transfer.png)
 
-### Git helps track such changes in your project files.
+### Git can help track the digital evolution of your project(s).
 
-> - automatic visualisation => What did I change?
-> - [cryptographic verification](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) => Nothing can change without notice!
-> - commenting => What does the change mean?
+- [cryptographic verification](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) of files => All changes get noticed.
+- automatic visualisation => What was changed?
+- commenting => What does a change mean?
 
 ![](images/Git-helps.png)
 
