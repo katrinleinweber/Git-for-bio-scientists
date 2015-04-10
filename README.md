@@ -68,20 +68,23 @@ license: CC-BY-4.0 for own content; image attributions in titles
 > - conflicts only for same line in same file
 > - DEMO: `Paper-Now-Achmi...`
 
-### Basic vocabulary
+### Basic Git vocabulary
 
 - **repository/repo:** Git's database of file versions in a watched folder
 
 ![](images/repo-folder.png)
 
-### Basic vocabulary
+### Basic Git vocabulary
+
 
 > - **commit:** set of logically connected file changes
 >- "checked into" the repo with a commit message
+> - within single file or across different files
 
 ![](images/logical-commit-across-files.png)
 
-### Basic vocabulary
+### Basic Git vocabulary
+
 
 > - **.gitignore:** file that contains a repo's  rules for ignoring files
 > - No highlighting? Large file? Auto-generated? Rather ignore those!
@@ -89,7 +92,7 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 [![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (Sindhu Radhakrishnan, 2010")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
 
-### Basic vocabulary
+### Basic Git vocabulary
 
 - **.gitignore:** file that contains a repo's ignore rules
 - No highlighting? Large file? Auto-generated? Rather ignore those!
@@ -97,22 +100,24 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ![](images/windows-gitignore-in-repo-settings.png)
 
-### Basic vocabulary
+### Basic Git vocabulary
+
 
 > - **staging area:** select changes to commit after files were saved to disk
 > - add commit message & description
-> - add .gitignore rules via context menu
+> - set .gitignore rules via context menu
 
 ![](images/staging-area.png)
 
-### Advanced vocabulary
+### Advanced Git vocabulary
+
 
 > - **branches:** different contexts in same repository
-> - created for a side experiment & then either merged or deleted)
+> - created for a side experiment & then either merged or deleted
 
 ![](images/Horizontal-info-transfer.png)
 
-### Advanced vocabulary
+### Advanced Git vocabulary
 
 > - **switching branches:** switch status of project folder (double-check!)
 > - **merging:** integrates changes into other branch (even per line)
