@@ -5,13 +5,17 @@ date: 2015-Apr-13
 license: CC-BY-4.0 for own content; image attributions in titles
 ---
 
-### What is evolution? Inheritance of genetic changes.
+### What is evolution?
 
 [![](images/doolittle-tree.jpg "Phylogenetic Classification and the Universal Tree (Ford Doolittle, Science, 1999")](http://www.sciencemag.org/content/284/5423/2124.full)
 
+### What is evolution? Inheritance of genetic changes.
+
+[![](images/Horizontal-gene-transfer-ori.jpg "from Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
+
 ### Projects evolve, too! Largely digitally.
 
-[![](images/Horizontal-info-transfer.png "modified from Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
+![](images/Horizontal-info-transfer.png)
 
 ### Git can help track the digital evolution of your project(s).
 
