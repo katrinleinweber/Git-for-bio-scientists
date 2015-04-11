@@ -17,6 +17,18 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ![](images/Horizontal-info-transfer.png)
 
+### Good against: too many files
+
+![](images/versions-win-explorer.png)
+
+### Good for: tidy project folders, but...
+
+![](images/files-in-explorer.png)
+
+### Good for: ...version history still accessible
+
+![](images/file-changes-in-GitHub.png)
+
 ### Git can help track the digital evolution of your project(s).
 
 > - [cryptographic verification](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) of files => All changes get noticed.
@@ -29,21 +41,16 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ![](images/watchdog.png)
 
-### Good against: too many files
+#### Technical
 
-![](images/versions-win-explorer.png)
+> - works best for simple text & OK for images
+> - makes file changes and their history comprehensible & verifiable 
+> - gratis backup & syncing, but only for text & small image files
 
-### Good against: unnamed versions
+#### Cultural
 
-![](images/versions-crashplan.png)
-
-### Good for: tidy project folders, but...
-
-![](images/files-in-explorer.png)
-
-### Good for: ...version history still accessible
-
-![](images/file-changes-in-GitHub.png)
+> - enables precise documentation (for colleagues, students, reviewers, your future self, etc.)
+> - eases team-work on same set of files
 
 ### What is Git?
 
