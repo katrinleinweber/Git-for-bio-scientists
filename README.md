@@ -41,38 +41,18 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ![](images/watchdog.png)
 
+### Summary of Git's properties
+
 #### Technical
 
-> - works best for simple text & OK for images
-> - makes file changes and their history comprehensible & verifiable 
-> - gratis backup & syncing, but only for text & small image files
+> - treats text files on a line-by-line basis
+> - also works for simple images, but not for complex or large file types
 
 #### Cultural
 
-> - enables precise documentation (for colleagues, students, reviewers, your future self, etc.)
-> - eases team-work on same set of files
-
-### What is Git?
-
-> [A] free and open source distributed **version control** \newline system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
-
-#### control over document versions
-
-> - record changes, esp. in text files and software source code
-> - also useful for images (JPG, PNG, etc.), but not complex files (DOC, XLS, PDF, etc.) 
-> - revert old changes, per line if necessary
-> - DEMO: `F0-legends` & `150224-30m`
-
-### What is Git?
-
-> [A] free and open source **distributed** version control \newline system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
-
-#### team-work
-
-> - changes to same set of files can be made independently
-> - seamless sync via Git hosting service (like Wiley Online Proofing System)
+> - makes file versions comprehensible & verifiable (for your future self, colleagues, students, reviewers…) => precise documentation
+> - less painful team-work on same set of files
 > - conflicts only if same lines in same get changed
-> - DEMO: `Paper-Now-Achmi...`
 
 ### Basic Git vocabulary
 
