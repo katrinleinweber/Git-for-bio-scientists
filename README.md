@@ -45,33 +45,37 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 #### Technical
 
-> - treats text files on a line-by-line basis
-> - also works for simple images, but not for complex or large file types
+> - works best for text files & software source code
+> - treats them on a line-by-line basis
+> - also useful for simple images
+> - less useful for complex or large file types =>  no backup replacement!
 
 #### Cultural
 
-> - makes file versions comprehensible & verifiable (for your future self, colleagues, students, reviewers…) => precise documentation
-> - less painful team-work on same set of files
-> - conflicts only if same lines in same get changed
+> - builds self-explanatory & verifiable project documentation (for your future self, colleagues, students, reviewers...)
+> - less painful collaboration on same set of files
+> - conflicts only if same lines in same file get changed (better syncing of text files)
 
 ### Basic Git vocabulary
 
 > - **repository/repo:** project folder watched by Git
-> - database of file versions in hidden `.git` subfolder \
+> - continue adding, editing & deleting files
+> - databse of file versions in hidden `.git` subfolder
+
 ![](images/repo-folder.png)
 
 ### Basic Git vocabulary
 
-> - **commit:** set of logically connected file changes
-> - within single file or across different files
-> - "checked into" the repo with a commit message \
-![](images/logical-commit-across-files.png)
+> - **committing:** saving a set of logically connected file changes into Git repo, together with meaningful commit message
+> - changes can be within single file, or across different ones
+> - **commit history:** version list defined by file changes, commit message, author, time, etc.
+> - DEMO: `fig_legends > initial` & `Zotero-styles > secure DOI`
 
 ### Basic Git vocabulary
 
-> - **.gitignore:** file that contains a repo's rules for ignoring files
+> - **.gitignore:** file that contains a repo's rules for ignoring files 
 > - No highlighting? Large file? Auto-generated? Rather ignore those!
-> - DEMO: `30m summary > ignore all *.docx` & `Git it on > unignore *.pdf
+> - DEMO: `30m summary > ignore all *.docx` & `Git it on > unignore *.pdf`
 
 [![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (Sindhu Radhakrishnan, 2010")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
 
@@ -102,8 +106,11 @@ license: CC-BY-4.0 for own content; image attributions in titles
 > 1. drag & drop project folder into GitHub client to initialise the repo
 > 1. edit, add & delete files as before
 > 1. **but:** commit logically connected changes often
-> 1. **recommended:** start writing in .markdown, for example with [Writage](http://www.writage.com/)
-> 1. **optional (for team-work, etc.):** wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) or create account at [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/), etc. & push/sync your local repo
+> 1. **recommended:** start writing texts in .markdown [^1]
+> 1. **optional (for collaboration etc.):** wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) or create [GitLab](https://gitlab.com/users/sign_in) account[^2]
+
+[^1]: Possible in Word with [Writage](http://www.writage.com/) add-in
+[^2]: [GitHub](https://github.com/join) wants $ for private repos, but client work with other Git hosting services
 
 ### Questions?
 
