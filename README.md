@@ -66,9 +66,10 @@ license: CC-BY-4.0 for own content; image attributions in titles
 ### Basic Git vocabulary
 
 > - **.gitignore:** file that contains a repo's rules for ignoring files
-> - No highlighting? Large file? Auto-generated? Rather ignore those! \
+> - No highlighting? Large file? Auto-generated? Rather ignore those!
+> - DEMO: `30m summary > ignore all *.docx` & `Git it on > unignore *.pdf
+
 [![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (Sindhu Radhakrishnan, 2010")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
-> - DEMO: `Git it on`
 
 ### Basic Git vocabulary
 
