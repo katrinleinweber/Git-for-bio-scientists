@@ -56,37 +56,37 @@ license: CC-BY-4.0 for own content; image attributions in titles
 > - less painful collaboration on same set of files
 > - conflicts only if same lines in same file get changed (better syncing of text files)
 
-### Basic Git vocabulary
+### Basic Git vocabulary: repository/repo
 
-> - **repository/repo:** project folder watched by Git
+> - project folder watched by Git
 > - continue adding, editing & deleting files
 > - databse of file versions in hidden `.git` subfolder
 
 ![](images/repo-folder.png)
 
-### Basic Git vocabulary
+### Basic Git vocabulary: committing
 
-> - **committing:** saving a set of logically connected file changes into Git repo, together with meaningful commit message
+> - saving a set of logically connected file changes into Git repo, together with meaningful commit message
 > - changes can be within single file, or across different ones
 > - **commit history:** version list defined by file changes, commit message, author, time, etc.
 > - DEMO: `fig_legends > initial` & `Zotero-styles > secure DOI`
 
-### Basic Git vocabulary
+### Basic Git vocabulary: .gitignore
 
-> - **.gitignore:** file that contains a repo's rules for ignoring files 
+> - file that contains a repo's rules for ignoring files 
 > - No highlighting? Large file? Auto-generated? Rather ignore those!
 > - DEMO: `30m summary > ignore all *.docx` & `Git it on > unignore *.pdf`
 
 [![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (Sindhu Radhakrishnan, 2010")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
 
-### Basic Git vocabulary
+### Basic Git vocabulary: .gitignore in GitHub for Windows
 
 ![](images/windows-gitignore-in-repo-settings.png)
 
-### Advanced Git vocabulary
+### Advanced Git vocabulary: branching
 
-> - **branching:** creates new "evolutionary" line in repo
-> - switching branches updates status of project folder
+> - creating new context within repo => files can evolve differently
+> - **switching branches:** updates status of project folder
 > - **merging:** integrates changes into other branch (per line)
 > - DEMO: `Git it on > experiments`
 
@@ -94,10 +94,22 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ### Vocabulary summary
 
-> - **repository/repo:** project folder watched by Git
-> - **commit:** set of logically connected file changes
-> - **.gitignore:** file that contains a repo's rules for ignoring files
-> - **branching:** creates new "evolutionary" line in repo
+#### repository/repo
+
+- project folder watched by Git, plus hidden database of file versions
+
+#### commit
+
+- set of logically connected file changes
+- identified by content, commit message, time, etc.
+
+#### .gitignore
+
+- file with ignore rules of a repo
+
+#### branches
+
+- different contexts within repo for evoltion of files
 
 ### How to start using it?
 
