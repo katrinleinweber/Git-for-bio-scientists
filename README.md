@@ -75,14 +75,6 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ![](images/windows-gitignore-in-repo-settings.png)
 
-### Basic Git vocabulary
-
-> - **staging area:** select changes to commit after files were saved to disk
-> - add commit message & description
-> - set .gitignore rules via context menu
-
-![](images/staging-area.png)
-
 ### Advanced Git vocabulary
 
 > - **branching:** creates new "evolutionary" line in repo
@@ -97,7 +89,6 @@ license: CC-BY-4.0 for own content; image attributions in titles
 > - **repository/repo:** project folder watched by Git
 > - **commit:** set of logically connected file changes
 > - **.gitignore:** file that contains a repo's rules for ignoring files
-> - **staging area:** select changes to commit after files were saved to disk
 > - **branching:** creates new "evolutionary" line in repo
 
 ### How to start using it?
@@ -109,10 +100,6 @@ license: CC-BY-4.0 for own content; image attributions in titles
 > 1. **but:** commit logically connected changes often
 > 1. **recommended:** start writing in .markdown, for example with [Writage](http://www.writage.com/)
 > 1. **optional (for team-work, etc.):** wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) or create account at [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/), etc. & push/sync your local repo
-
-### Git GUI vs. CLI.
-
-![](images/Git-client-vs-shell.png "left: screenshot of GitHub for Windows with GitHub logo and Octocat, https://github.com/logos; right: screenshot of Git shell with Git logo by Jason Long, CC BY 3.0, https://git-scm.herokuapp.com/downloads/logos")
 
 ### Questions?
 
