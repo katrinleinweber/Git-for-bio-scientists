@@ -19,9 +19,9 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ### Git can help track the digital evolution of your project(s).
 
-- [cryptographic verification](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) of files => All changes get noticed.
-- automatic visualisation => What was changed?
-- commenting => What does a change mean?
+> - [cryptographic verification](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) of files => All changes get noticed.
+> - automatic visualisation => What was changed?
+> - commenting => What does a change mean?
 
 ![](images/Git-helps.png)
 
