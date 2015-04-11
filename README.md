@@ -5,29 +5,13 @@ date: 2015-Apr-13
 license: CC-BY-4.0 for own content; image attributions in titles
 ---
 
-### Remember Ansgar's "Tree of Life"-talk?
+### What is evolution? Inheritance of genetic changes.
 
 [![](images/doolittle-tree.jpg "Phylogenetic Classification and the Universal Tree (Ford Doolittle, Science, 1999")](http://www.sciencemag.org/content/284/5423/2124.full)
 
-### What is evolution? Inheritance of genetic changes.
-
-[![](images/Horizontal-gene-transfer-ori.jpg "Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
-
 ### Projects evolve, too! Largely digitally.
 
-![](images/Horizontal-info-transfer.png)
-
-### Good against: too many files
-
-![](images/versions-win-explorer.png)
-
-### Good for: tidy project folders, but...
-
-![](images/files-in-explorer.png)
-
-### Good for: ...version history still accessible
-
-![](images/file-changes-in-GitHub.png)
+[![](images/Horizontal-info-transfer.png "modified from Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
 
 ### Git can help track the digital evolution of your project(s).
 
@@ -40,6 +24,18 @@ license: CC-BY-4.0 for own content; image attributions in titles
 ### Git is your file watchdog.
 
 ![](images/watchdog.png)
+
+### Good against: too many files
+
+![](images/versions-win-explorer.png)
+
+### Good for: tidy project folders, but...
+
+![](images/files-in-explorer.png)
+
+### Good for: ...version history still accessible
+
+![](images/file-changes-in-GitHub.png)
 
 ### Summary of Git's properties
 
