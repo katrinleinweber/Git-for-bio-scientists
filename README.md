@@ -59,17 +59,17 @@ license: CC-BY-4.0 for own content; image attributions in titles
 ### Basic Git vocabulary: repository/repo
 
 > - project folder watched by Git
-> - continue adding, editing & deleting files
-> - database of file versions in hidden `.git` subfolder
+> - is still a normal folder: add, edit & delete files normally
+> - database of file versions in hidden subfolder
 
 ![](images/repo-folder.png)
 
 ### Basic Git vocabulary: committing
 
-> - saving a set of logically connected file change with meaningful commit message
+> - saving a logical set of file changes in Git, together with meaningful comment
 > - changes can be within single file, or across different ones
 > - **commit history:** self-explanatory & verifiable documentation
-> - DEMO: `fig_legends > initial` & `Zotero-styles > secure DOI`
+> - DEMO: `fig_legends > initial`
 
 ### Basic Git vocabulary: .gitignore
 
@@ -121,4 +121,4 @@ license: CC-BY-4.0 for own content; image attributions in titles
 - "[Git/GitHub: a Primer for Researchers](http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/)" by [Carly Strasser](http://carlystrasser.net/)
 - "[We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/)" by [Marcio von Muhlen](https://twitter.com/marciovm)
 - "[10 Years of Git: An Interview with Git Creator Linus Torvalds](https://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds/)" by [Jennifer Cloer](https://twitter.com/JenniferCloer)
-- "[Learn Version Control with Git](http://www.git-tower.com/learn/ebook/mac/basics/why-use-version-control#start)" tutorials by [Forunova](http://www.fournova.com/)
+- "[Learn Version Control with Git](http://www.git-tower.com/learn/ebook/mac/basics/why-use-version-control#start)" tutorials by [Fournova](http://www.fournova.com/)
