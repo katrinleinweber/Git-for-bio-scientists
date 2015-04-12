@@ -11,16 +11,16 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ### Tree of Life
 
-[![](images/Horizontal-gene-transfer-ori.jpg "from Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
+[![](images/Horizontal-gene-transfer.jpg "from Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
 
 ### Tree of Projects
 
 ![](images/Horizontal-info-transfer.png)
 
-### Git can help track the digital evolution of your project(s).
+### Git tracks digital evolution of files
 
-> - automatic, line-by-line highlighting of what exactly was/has changed
-> - incentivised commenting of file changes
+> - highlights exactly what changed, line by line
+> - makes you comment file changes
 
 ![](images/Git-helps.png)
 
@@ -46,13 +46,15 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 > - works best for line- or paragraph-based files
 > - built for source code, but also useful for texts and simple images
-> - less useful for complex or large file types => no backup replacement!
+> - less useful for complex or large file types
+> - not a backup substitute
 
 #### Cultural
 
 > - helps build self-explanatory & verifiable project documentation (for your future self, colleagues, students, reviewers...)
 > - enables less painful collaboration on same set of files
-> - causes conflicts only if same lines in same file get changed (better syncing of text files)
+> - conflicts only if same lines in same file get changed
+> - not really a syncing substitute, except for text files
 
 ### Basic Git vocabulary: repository/repo
 
