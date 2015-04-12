@@ -5,15 +5,15 @@ date: 2015-Apr-13
 license: CC-BY-4.0 for own content; image attributions in titles
 ---
 
-### What is evolution?
+### Tree of Life
 
 [![](images/doolittle-tree.jpg "Phylogenetic Classification and the Universal Tree (Ford Doolittle, Science, 1999")](http://www.sciencemag.org/content/284/5423/2124.full)
 
-### What is evolution? Inheritance of genetic changes.
+### Tree of Life
 
 [![](images/Horizontal-gene-transfer-ori.jpg "from Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
 
-### Projects evolve, too! Largely digitally.
+### Tree of Projects
 
 ![](images/Horizontal-info-transfer.png)
 
