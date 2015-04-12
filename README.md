@@ -19,15 +19,28 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ### Git can help track the digital evolution of your project(s).
 
-> - [cryptographic verification](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) of files => All changes get noticed.
-> - automatic visualisation => What was changed?
-> - commenting => What does a change mean?
+> - automatic, line-by-line highlighting of what exactly was/has changed
+> - incentivised commenting of file changes
 
 ![](images/Git-helps.png)
 
 ### Git is your file watchdog.
 
 ![](images/watchdog.png)
+
+### Summary of Git's properties
+
+#### Technical
+
+> - works best for line- or paragraph-based files
+> - built for source code, but also useful for texts and simple images
+> - less useful for complex or large file types => no backup replacement!
+
+#### Cultural
+
+> - helps build self-explanatory & verifiable project documentation (for your future self, colleagues, students, reviewers...)
+> - enables less painful collaboration on same set of files
+> - causes conflicts only if same lines in same file get changed (better syncing of text files)
 
 ### Good against: too many files
 
@@ -40,21 +53,6 @@ license: CC-BY-4.0 for own content; image attributions in titles
 ### Good for: ...version history still accessible
 
 ![](images/file-changes-in-GitHub.png)
-
-### Summary of Git's properties
-
-#### Technical
-
-> - works best for text files & software source code
-> - treats them on a line-by-line basis
-> - also useful for simple images
-> - less useful for complex or large file types =>  no backup replacement!
-
-#### Cultural
-
-> - builds self-explanatory & verifiable project documentation (for your future self, colleagues, students, reviewers...)
-> - less painful collaboration on same set of files
-> - conflicts only if same lines in same file get changed (better syncing of text files)
 
 ### Basic Git vocabulary: repository/repo
 
