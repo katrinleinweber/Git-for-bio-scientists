@@ -109,16 +109,30 @@ license: CC-BY-4.0 for own content; image attributions in titles
 [^1]: Possible in Word with [Writage](http://www.writage.com/) add-in
 [^2]: [GitHub](https://github.com/join) wants $ for private repos, but client is free & compatible with other Git services
 
-### Thanks for your attention! Questions?
 
-![](images/keep-calm-and-git-it-on.png)
+### Thanks to & Further Reading
 
-### Further Reading
+###### Writing with Git
 
 - "[Scientific Markdown](https://github.com/JensErat/scientific-markdown)" by Jens Erat
-- "[Markdown Basics](https://help.github.com/articles/markdown-basics/#basic-writing)" and "[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)" tutorials by [GitHub](https://github.com/)
+- "[Markdown Basics](https://help.github.com/articles/markdown-basics/#basic-writing)" and "[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)" by [GitHub](https://github.com/)
+- "[Paper Now](https://github.com/PeerJ/paper-now#paper-now)" by [PeerJ](https://peerj.com/)
+
+###### Git in Science
+
 - "[Git for Scientists](https://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html)" by [Molly Gibson](https://github.com/mollygibson)
 - "[Git/GitHub: a Primer for Researchers](http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/)" by [Carly Strasser](http://carlystrasser.net/)
 - "[We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/)" by [Marcio von Muhlen](https://twitter.com/marciovm)
+
+###### Git concepts & tech
+
 - "[10 Years of Git: An Interview with Git Creator Linus Torvalds](https://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds/)" by [Jennifer Cloer](https://twitter.com/JenniferCloer)
-- "[Learn Version Control with Git](http://www.git-tower.com/learn/ebook/mac/basics/why-use-version-control#start)" tutorials by [Fournova](http://www.fournova.com/)
+- "[Learn Version Control with Git](http://www.git-tower.com/learn/ebook/mac/introduction)" by [Fournova](http://www.fournova.com/)
+
+### Git concepts & tech: Fournova's "Learn Git" 
+
+![](images/learn-Git-from-Fournova.png "Learn Version Control with Git: tutorials by Fournova")
+
+### Thanks for your attention! Questions?
+
+![](images/keep-calm-and-git-it-on.png)
