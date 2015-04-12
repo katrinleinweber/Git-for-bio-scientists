@@ -109,15 +109,13 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 - different contexts within repo for evoltion of files
 
-### How to start using it?
+### How to start using Git?
 
 > 1. download client from [windows.github.com](https://windows.github.com/) (any other from [git-scm.com/downloads/guis](http://git-scm.com/download/gui/win)) & install
 > 1. start with small sub-project (protocol optimisation, diagram in R, report, etc.)
-> 1. drag & drop project folder into GitHub client to initialise the repo
-> 1. edit, add & delete files as before
-> 1. **but:** commit logically connected changes often
-> 1. **recommended:** start writing texts in .markdown [^1]
-> 1. **optional (for collaboration etc.):** create account with a Git hosting service: [GitLab](https://gitlab.com/users/sign_in)[^2] or wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) 
+> 1. **besides working on the files themselves:** commit logically connected changes often
+> 1. **recommended:** start writing texts in Markdown[^1] format
+> 1. **optional (for collaboration etc.):** create account with Git hosting service like [GitLab](https://gitlab.com/users/sign_in)[^2] or wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) 
 
 [^1]: Possible in Word with [Writage](http://www.writage.com/) add-in
 [^2]: [GitHub](https://github.com/join) wants $ for private repos, but client is free & compatible with other Git services
