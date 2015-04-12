@@ -96,18 +96,17 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 - project folder watched by Git, plus hidden database of file versions
 
-#### commit
+#### committing
 
-- set of logically connected file changes
-- identified by content, commit message, time, etc.
+- composing logically connected file changes and meaningful commit message
 
 #### .gitignore
 
-- file with ignore rules of a repo
+- a repo's ignore rules for non-essential files & file types
 
 #### branches
 
-- different contexts within repo for evoltion of files
+- different contexts for file evolution and status within same repo
 
 ### How to start using Git?
 
@@ -120,11 +119,11 @@ license: CC-BY-4.0 for own content; image attributions in titles
 [^1]: Possible in Word with [Writage](http://www.writage.com/) add-in
 [^2]: [GitHub](https://github.com/join) wants $ for private repos, but client is free & compatible with other Git services
 
-### Questions?
+### Thanks for your attention! Questions?
 
 ![](images/keep-calm-and-git-it-on.png)
 
-### Thanks to & Further Reading
+### Further Reading
 
 - "[Scientific Markdown](https://github.com/JensErat/scientific-markdown)" by Jens Erat
 - "[Markdown Basics](https://help.github.com/articles/markdown-basics/#basic-writing)" and "[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)" tutorials by [GitHub](https://github.com/)
