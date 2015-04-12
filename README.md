@@ -5,13 +5,13 @@ date: 2015-Apr-13
 license: CC-BY-4.0 for own content; image attributions in titles
 ---
 
-### Remember Ansgar's "Tree of Life"-talk?
+### What is evolution?
 
 [![](images/doolittle-tree.jpg "Phylogenetic Classification and the Universal Tree (Ford Doolittle, Science, 1999")](http://www.sciencemag.org/content/284/5423/2124.full)
 
 ### What is evolution? Inheritance of genetic changes.
 
-[![](images/Horizontal-gene-transfer-ori.jpg "Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
+[![](images/Horizontal-gene-transfer-ori.jpg "from Smets & Barkay (2005) Horizontal gene transfer: perspectives at a crossroads of scientific disciplines")](http://www.nature.com/nrmicro/journal/v3/n9/fig_tab/nrmicro1253_F1.html)
 
 ### Projects evolve, too! Largely digitally.
 
@@ -19,9 +19,9 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ### Git can help track the digital evolution of your project(s).
 
-- [cryptographic verification](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) of files => All changes get noticed.
-- automatic visualisation => What was changed?
-- commenting => What does a change mean?
+> - [cryptographic verification](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics#Git-Has-Integrity) of files => All changes get noticed.
+> - automatic visualisation => What was changed?
+> - commenting => What does a change mean?
 
 ![](images/Git-helps.png)
 
@@ -33,10 +33,6 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ![](images/versions-win-explorer.png)
 
-### Good against: unnamed versions
-
-![](images/versions-crashplan.png)
-
 ### Good for: tidy project folders, but...
 
 ![](images/files-in-explorer.png)
@@ -45,64 +41,52 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ![](images/file-changes-in-GitHub.png)
 
-### What is Git?
+### Summary of Git's properties
 
-> [A] free and open source distributed **version control** \newline system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
+#### Technical
 
-#### control over document versions
+> - works best for text files & software source code
+> - treats them on a line-by-line basis
+> - also useful for simple images
+> - less useful for complex or large file types =>  no backup replacement!
 
-> - record changes, esp. in text files and software source code
-> - also useful for images (JPG, PNG, etc.), but not complex files (DOC, XLS, PDF, etc.) 
-> - revert old changes, per line if necessary
-> - DEMO: `F0-legends` & `150224-30m`
+#### Cultural
 
-### What is Git?
+> - builds self-explanatory & verifiable project documentation (for your future self, colleagues, students, reviewers...)
+> - less painful collaboration on same set of files
+> - conflicts only if same lines in same file get changed (better syncing of text files)
 
-> [A] free and open source **distributed** version control \newline system designed to handle everything from small to very large projects with speed and efficiency. ([git-scm.com](http://git-scm.com/))
+### Basic Git vocabulary: repository/repo
 
-#### team-work
+> - project folder watched by Git
+> - continue adding, editing & deleting files
+> - database of file versions in hidden `.git` subfolder
 
-> - changes to same set of files can be made independently
-> - seamless sync via Git hosting service (like Wiley Online Proofing System)
-> - conflicts only if same lines in same get changed
-> - DEMO: `Paper-Now-Achmi...`
-
-### Basic Git vocabulary
-
-> - **repository/repo:** project folder watched by Git
-> - database of file versions in hidden `.git` subfolder \
 ![](images/repo-folder.png)
 
-### Basic Git vocabulary
+### Basic Git vocabulary: committing
 
-> - **commit:** set of logically connected file changes
-> - within single file or across different files
-> - "checked into" the repo with a commit message \
-![](images/logical-commit-across-files.png)
+> - saving a set of logically connected file change with meaningful commit message
+> - changes can be within single file, or across different ones
+> - **commit history:** self-explanatory & verifiable documentation
+> - DEMO: `fig_legends > initial` & `Zotero-styles > secure DOI`
 
-### Basic Git vocabulary
+### Basic Git vocabulary: .gitignore
 
-> - **.gitignore:** file that contains a repo's rules for ignoring files
-> - No highlighting? Large file? Auto-generated? Rather ignore those! \
+> - file that contains a repo's rules for ignoring files 
+> - No preview of highlighted changes? Large file? Auto-generated? Rather ignore those!
+> - DEMO: `30m summary > ignore all *.docx` & `Git it on > unignore *.pdf`
+
 [![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (Sindhu Radhakrishnan, 2010")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
-> - DEMO: `Git it on`
 
-### Basic Git vocabulary
+### Basic Git vocabulary: .gitignore in GitHub for Windows
 
 ![](images/windows-gitignore-in-repo-settings.png)
 
-### Basic Git vocabulary
+### Advanced Git vocabulary: branching
 
-> - **staging area:** select changes to commit after files were saved to disk
-> - add commit message & description
-> - set .gitignore rules via context menu
-
-![](images/staging-area.png)
-
-### Advanced Git vocabulary
-
-> - **branching:** creates new "evolutionary" line in repo
-> - switching branches updates status of project folder
+> - creating new context within repo => files can evolve differently
+> - **switching branches:** updates file states in project folder
 > - **merging:** integrates changes into other branch (per line)
 > - DEMO: `Git it on > experiments`
 
@@ -110,11 +94,22 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ### Vocabulary summary
 
-> - **repository/repo:** project folder watched by Git
-> - **commit:** set of logically connected file changes
-> - **.gitignore:** file that contains a repo's rules for ignoring files
-> - **staging area:** select changes to commit after files were saved to disk
-> - **branching:** creates new "evolutionary" line in repo
+#### repository/repo
+
+- project folder watched by Git, plus hidden database of file versions
+
+#### commit
+
+- set of logically connected file changes
+- identified by content, commit message, time, etc.
+
+#### .gitignore
+
+- file with ignore rules of a repo
+
+#### branches
+
+- different contexts within repo for evoltion of files
 
 ### How to start using it?
 
@@ -123,12 +118,11 @@ license: CC-BY-4.0 for own content; image attributions in titles
 > 1. drag & drop project folder into GitHub client to initialise the repo
 > 1. edit, add & delete files as before
 > 1. **but:** commit logically connected changes often
-> 1. **recommended:** start writing in .markdown, for example with [Writage](http://www.writage.com/)
-> 1. **optional (for team-work, etc.):** wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) or create account at [GitLab](https://gitlab.com/users/sign_in), [GitHub](https://github.com/join), [BitBucket](https://bitbucket.org/account/signup/), etc. & push/sync your local repo
+> 1. **recommended:** start writing texts in .markdown [^1]
+> 1. **optional (for collaboration etc.):** create account with a Git hosting service: [GitLab](https://gitlab.com/users/sign_in)[^2] or wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) 
 
-### Git GUI vs. CLI.
-
-![](images/Git-client-vs-shell.png "left: screenshot of GitHub for Windows with GitHub logo and Octocat, https://github.com/logos; right: screenshot of Git shell with Git logo by Jason Long, CC BY 3.0, https://git-scm.herokuapp.com/downloads/logos")
+[^1]: Possible in Word with [Writage](http://www.writage.com/) add-in
+[^2]: [GitHub](https://github.com/join) wants $ for private repos, but client is free & compatible with other Git services
 
 ### Questions?
 
@@ -137,6 +131,7 @@ license: CC-BY-4.0 for own content; image attributions in titles
 ### Thanks to & Further Reading
 
 - "[Scientific Markdown](https://github.com/JensErat/scientific-markdown)" by Jens Erat
+- "[Markdown Basics](https://help.github.com/articles/markdown-basics/#basic-writing)" and "[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)" help pages on GitHub.com
 - "[Git for Scientists](https://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html)" by [Molly Gibson](https://github.com/mollygibson)
 - "[Git/GitHub: a Primer for Researchers](http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/)" by [Carly Strasser](http://carlystrasser.net/)
 - "[We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/)" by [Marcio von Muhlen](https://twitter.com/marciovm)
