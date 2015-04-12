@@ -28,6 +28,18 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ![](images/watchdog.png)
 
+### Good against: too many files
+
+![](images/versions-win-explorer.png)
+
+### Good for: tidy project folders, but...
+
+![](images/files-in-explorer.png)
+
+### Good for: ...version history still accessible
+
+![](images/file-changes-in-GitHub.png)
+
 ### Summary of Git's properties
 
 #### Technical
@@ -41,18 +53,6 @@ license: CC-BY-4.0 for own content; image attributions in titles
 > - helps build self-explanatory & verifiable project documentation (for your future self, colleagues, students, reviewers...)
 > - enables less painful collaboration on same set of files
 > - causes conflicts only if same lines in same file get changed (better syncing of text files)
-
-### Good against: too many files
-
-![](images/versions-win-explorer.png)
-
-### Good for: tidy project folders, but...
-
-![](images/files-in-explorer.png)
-
-### Good for: ...version history still accessible
-
-![](images/file-changes-in-GitHub.png)
 
 ### Basic Git vocabulary: repository/repo
 
