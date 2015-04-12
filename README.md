@@ -129,9 +129,9 @@ license: CC-BY-4.0 for own content; image attributions in titles
 ### Thanks to & Further Reading
 
 - "[Scientific Markdown](https://github.com/JensErat/scientific-markdown)" by Jens Erat
-- "[Markdown Basics](https://help.github.com/articles/markdown-basics/#basic-writing)" and "[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)" help pages on GitHub.com
+- "[Markdown Basics](https://help.github.com/articles/markdown-basics/#basic-writing)" and "[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)" tutorials by [GitHub](https://github.com/)
 - "[Git for Scientists](https://mollygibson.github.io/2014-08-11-wustl/lessons/git-notebook/git-for-scientists.slides.html)" by [Molly Gibson](https://github.com/mollygibson)
 - "[Git/GitHub: a Primer for Researchers](http://datapub.cdlib.org/2014/05/05/github-a-primer-for-researchers/)" by [Carly Strasser](http://carlystrasser.net/)
 - "[We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/)" by [Marcio von Muhlen](https://twitter.com/marciovm)
 - "[10 Years of Git: An Interview with Git Creator Linus Torvalds](https://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds/)" by [Jennifer Cloer](https://twitter.com/JenniferCloer)
-- "[Learn Version Control with Git](http://www.git-tower.com/learn/ebook/mac/basics/why-use-version-control#start)" course by the makers of the "[Tower](http://www.git-tower.com/)" Git client
+- "[Learn Version Control with Git](http://www.git-tower.com/learn/ebook/mac/basics/why-use-version-control#start)" tutorials by [Forunova](http://www.fournova.com/)
