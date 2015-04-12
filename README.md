@@ -60,21 +60,21 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 > - project folder watched by Git
 > - continue adding, editing & deleting files
-> - databse of file versions in hidden `.git` subfolder
+> - database of file versions in hidden `.git` subfolder
 
 ![](images/repo-folder.png)
 
 ### Basic Git vocabulary: committing
 
-> - saving a set of logically connected file changes into Git repo, together with meaningful commit message
+> - saving a set of logically connected file change with meaningful commit message
 > - changes can be within single file, or across different ones
-> - **commit history:** version list defined by file changes, commit message, author, time, etc.
+> - **commit history:** self-explanatory & verifiable documentation
 > - DEMO: `fig_legends > initial` & `Zotero-styles > secure DOI`
 
 ### Basic Git vocabulary: .gitignore
 
 > - file that contains a repo's rules for ignoring files 
-> - No highlighting? Large file? Auto-generated? Rather ignore those!
+> - No preview of highlighted changes? Large file? Auto-generated? Rather ignore those!
 > - DEMO: `30m summary > ignore all *.docx` & `Git it on > unignore *.pdf`
 
 [![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (Sindhu Radhakrishnan, 2010")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
@@ -86,7 +86,7 @@ license: CC-BY-4.0 for own content; image attributions in titles
 ### Advanced Git vocabulary: branching
 
 > - creating new context within repo => files can evolve differently
-> - **switching branches:** updates status of project folder
+> - **switching branches:** updates file states in project folder
 > - **merging:** integrates changes into other branch (per line)
 > - DEMO: `Git it on > experiments`
 
@@ -119,10 +119,10 @@ license: CC-BY-4.0 for own content; image attributions in titles
 > 1. edit, add & delete files as before
 > 1. **but:** commit logically connected changes often
 > 1. **recommended:** start writing texts in .markdown [^1]
-> 1. **optional (for collaboration etc.):** wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) or create [GitLab](https://gitlab.com/users/sign_in) account[^2]
+> 1. **optional (for collaboration etc.):** create account with a Git hosting service: [GitLab](https://gitlab.com/users/sign_in)[^2] or wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) 
 
 [^1]: Possible in Word with [Writage](http://www.writage.com/) add-in
-[^2]: [GitHub](https://github.com/join) wants $ for private repos, but client work with other Git hosting services
+[^2]: [GitHub](https://github.com/join) wants $ for private repos, but client is free & compatible with other Git services
 
 ### Questions?
 
