@@ -81,15 +81,6 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ![](images/windows-gitignore-in-repo-settings.png)
 
-### Advanced Git vocabulary: branching
-
-> - creating new context within repo => files can evolve differently
-> - **switching branches:** updates file states in project folder
-> - **merging:** integrates changes into other branch (per line)
-> - DEMO: `Git it on > experiments`
-
-![](images/git-branching.png)
-
 ### Vocabulary summary
 
 #### repository/repo
@@ -104,9 +95,6 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 - a repo's ignore rules for non-essential files & file types
 
-#### branches
-
-- different contexts for file evolution and status within same repo
 
 ### How to start using Git?
 
