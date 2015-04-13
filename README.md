@@ -40,21 +40,21 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ![](images/file-changes-in-GitHub.png)
 
-### Summary of Git's properties
+### Version control with Git
 
 #### Technical
 
 > - works best for line- or paragraph-based files
 > - built for source code, but also useful for texts and simple images
 > - less useful for complex or large file types
-> - not a backup substitute
+> - not a substitute for full backups
 
 #### Cultural
 
 > - helps build self-explanatory & verifiable project documentation (for your future self, colleagues, students, reviewers...)
 > - enables less painful collaboration on same set of files
 > - conflicts only if same lines in same file get changed
-> - not really a syncing substitute, except for text files
+> - for text files: better than syncing tools
 
 ### Basic Git vocabulary: repository/repo
 
