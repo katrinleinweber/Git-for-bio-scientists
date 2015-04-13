@@ -19,8 +19,8 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ### Git tracks digital evolution of files
 
-> - highlights exactly what changed, line by line
-> - makes you comment file changes
+- highlights exactly what changed, line by line
+- makes you comment file changes
 
 ![](images/Git-helps.png)
 
@@ -44,38 +44,36 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 #### Technical
 
-> - works best for line- or paragraph-based files
-> - built for source code, but also useful for texts and simple images
-> - less useful for complex or large file types
-> - not a substitute for full backups
+- works best for line- or paragraph-based files
+- built for source code, but also useful for texts and simple images
+- less useful for complex or large file types
+- not a substitute for full backups
 
 #### Cultural
 
-> - helps build self-explanatory & verifiable project documentation (for your future self, colleagues, students, reviewers...)
-> - enables less painful collaboration on same set of files
-> - conflicts only if same lines in same file get changed
-> - for text files: better than syncing tools
+- helps build self-explanatory & verifiable project documentation (for your future self, colleagues, students, reviewers...)
+- enables less painful collaboration on same set of files
+- conflicts only if same lines in same file get changed
+- for text files: better than syncing tools
 
 ### Basic Git vocabulary: repository/repo
 
-> - project folder watched by Git
-> - is still a normal folder: add, edit & delete files normally
-> - database of file versions in hidden subfolder
+- project folder watched by Git
+- is still a normal folder: add, edit & delete files normally
+- database of file versions in hidden subfolder
 
 ![](images/repo-folder.png)
 
 ### Basic Git vocabulary: committing
 
-> - saving a logical set of file changes in Git, together with meaningful comment
-> - changes can be within single file, or across different ones
-> - **commit history:** self-explanatory & verifiable documentation
-> - DEMO: `fig_legends > initial`
+- saving a logical set of file changes in Git, together with meaningful comment
+- changes can be within single file, or across different ones
+- **commit history:** self-explanatory & verifiable documentation
 
 ### Basic Git vocabulary: .gitignore
 
-> - file that contains a repo's rules for ignoring files 
-> - No preview of highlighted changes? Large file? Auto-generated? Rather ignore those!
-> - DEMO: `30m summary > ignore all *.docx` & `Git it on > unignore *.pdf`
+- file that contains a repo's rules for ignoring files 
+- No preview of highlighted changes? Large file? Auto-generated? Rather ignore those!
 
 [![](images/gitignore-or-not.png "Making Sense of Multiliteracy under the same context (Sindhu Radhakrishnan, 2010")](http://edc.education.ed.ac.uk/sindhur/2010/10/17/visual-artefact/)
 
@@ -99,15 +97,13 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 ### How to start using Git?
 
-> 1. download client from [windows.github.com](https://windows.github.com/) (any other from [git-scm.com/downloads/guis](http://git-scm.com/download/gui/win)) & install
-> 1. start with small sub-project (protocol optimisation, diagram in R, report, etc.)
-> 1. **besides working on the files themselves:** commit logically connected changes often
-> 1. **recommended:** start writing texts in Markdown[^1] format
-> 1. **optional (for collaboration etc.):** create account with Git hosting service like [GitLab](https://gitlab.com/users/sign_in)[^2] or wait for [git.uni.kn](https://git.uni-konstanz.de/users/sign_in) 
+1. download client from [windows.github.com](https://windows.github.com/) (any other from [git-scm.com/downloads/guis](http://git-scm.com/download/gui/win)) & install
+1. start with small sub-project (protocol optimisation, diagram in R, report, etc.)
+1. **besides working on the files themselves:** commit logically connected changes often
+1. **recommended:** start writing texts in Markdown[^1] format
+1. **optional (for collaboration etc.):** create account with Git hosting service like [GitLab](https://gitlab.com/users/sign_in) or [GitHub](https://github.com/join)
 
 [^1]: Possible in Word with [Writage](http://www.writage.com/) add-in
-[^2]: [GitHub](https://github.com/join) wants $ for private repos, but client is free & compatible with other Git services
-
 
 ### Thanks to & Further Reading
 

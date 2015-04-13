@@ -1,12 +1,10 @@
-git-it-on.tex
 *.aux
 *.fdb_latexmk
 *.fls
 *.log
 *.nav
-*.snm
-*.toc
 *.out
+*.snm
+*.tex
+*.toc
 *.xcf
-images/Git-client-vs-shell-vs-hosting.png
-images/Git-client-vs-shell-with-logos.png
