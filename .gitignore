@@ -3,7 +3,6 @@ git-it-on.tex
 *.fdb_latexmk
 *.fls
 *.log
-*.pdf
 *.nav
 *.snm
 *.toc

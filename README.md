@@ -91,7 +91,7 @@ license: CC-BY-4.0 for own content; image attributions in titles
 
 #### committing
 
-- composing logically connected file changes and meaningful commit message
+- composing logical set of file changes and meaningful commit message
 
 #### .gitignore
 
