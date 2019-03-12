@@ -5,7 +5,7 @@ date: 2015-Apr-13
 license: CC-BY-4.0 for own content; image attributions in titles
 ---
 
-# Slides  of this presentation with recorded audio [here](http://www.konscience.de/2015/04/ksl002-digital-lab-journalling-with-git/)
+_Slides of this presentation [with recorded audio](http://www.konscience.de/2015/04/ksl002-digital-lab-journalling-with-git/)_
 
 ### Tree of Life
 
