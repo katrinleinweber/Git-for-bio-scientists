@@ -9,7 +9,7 @@ _Slides of this presentation [with recorded audio](http://www.konscience.de/2015
 
 ### Tree of Life
 
-[![](images/doolittle-tree.jpg "Phylogenetic Classification and the Universal Tree (Ford Doolittle, Science, 1999")](http://www.sciencemag.org/content/284/5423/2124.full)
+[![](images/doolittle-tree.jpg "Phylogenetic Classification and the Universal Tree (Ford Doolittle, Science, 1999")](https://www.science.org/doi/full/10.1126/science.284.5423.2124)
 
 ### Tree of Life
 
@@ -123,8 +123,8 @@ _Slides of this presentation [with recorded audio](http://www.konscience.de/2015
 
 ##### Git concepts & tech
 
-- "[Learn Version Control with Git](http://www.git-tower.com/learn/ebook/mac/introduction)" by [Fournova](http://www.fournova.com/)
-- "[10 Years of Git: An Interview with Git Creator Linus Torvalds](https://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds/)" by [Jennifer Cloer](https://twitter.com/JenniferCloer)
+- "[Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook)" by [Fournova](http://www.fournova.com/)
+- "[10 Years of Git: An Interview with Git Creator Linus Torvalds](https://www.linux.com/news/10-years-git-interview-git-creator-linus-torvalds/)" by [Jennifer Cloer](https://twitter.com/JenniferCloer)
 
 ### Thanks for your attention! Questions?
 
